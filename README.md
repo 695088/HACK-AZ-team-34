@@ -1,104 +1,174 @@
 # UAdvisor
 
-A web app that helps **University of Arizona** students discover and compare courses. It uses your interests, schedule, and filters to surface relevant sections and show reviews and instructor context.
+UAdvisor is an intelligent course recommendation platform built for University of Arizona students. It analyzes a student's academic profile, preferences, and course history to generate ranked, explainable course section recommendations that help students enroll with confidence.
 
-Stack: **Vite**, **React 18**, **TypeScript**, **Tailwind CSS**, and **shadcn/ui** components.
+---
+
+## Overview
+
+Choosing the right classes can be time-consuming and confusing. Students often need to compare schedules, professor quality, workload, prerequisites, and personal interests across multiple systems.
+
+UAdvisor solves this by combining university course data with external review sources and a custom recommendation engine.
+
+Students can:
+
+* Input their academic profile
+* Upload a transcript (optional)
+* Set preferences such as difficulty, schedule, format, and interests
+* Receive a ranked list of course sections with a **0–100 match score**
+* View explainable reasoning for every recommendation
+* Understand what to expect from the class and instructor
+* Make faster, smarter enrollment decisions
+
+---
+
+## How It Works
+
+Behind the interface, UAdvisor uses a custom match-scoring engine.
+
+### Step 1: Basic Eligibility Filters
+
+The system first removes courses that do not fit required constraints, such as:
+
+* Already completed courses
+* Missing prerequisites
+* Credit conflicts
+* Enrollment constraints
+
+### Step 2: Multi-Factor Scoring
+
+Remaining course sections are scored across multiple dimensions:
+
+* Foundational / academic fit
+  n- Personal interests
+* Difficulty preference
+* Workload preference
+* Schedule compatibility
+* Online / in-person format preference
+* Professor quality and ratings
+* Historical sentiment data
+
+### Step 3: Explainable Ranking
+
+Each recommendation receives a transparent score from **0 to 100** with reasoning such as:
+
+* Why this course matches your goals
+  n- Expected workload
+* Instructor reputation
+* Scheduling advantages
+* Potential concerns to consider
+
+### Edge Cases Handled
+
+* New professors with limited ratings
+* New courses with sparse data
+* Missing data scenarios
+* Students with partial transcripts
+* Schedule conflicts
+* Already completed requirements
+
+---
+
+## How We Built It
+
+### Frontend
+
+Built using the Lovable platform with:
+
+* Vite
+* React 18
+* TypeScript
+* Tailwind CSS
+* shadcn/ui components
+
+### Data Pipeline
+
+We created a Python-based pipeline to scrape, clean, normalize, and merge data from:
+
+* University course catalog
+* RateMyProfessors
+* Coursicle
+
+This pipeline produces a unified dataset used directly by the application.
+
+### Recommendation Engine
+
+A custom rules + scoring system designed to rank sections intelligently based on student needs instead of showing raw listings.
 
 ---
 
 ## Prerequisites
 
-- **Node.js** 18 or newer (20 LTS recommended)
-- **npm** (comes with Node), or **bun** if you use the `bun.lockb` in this repo
-- **Python 3.9+** (only if you need to [rebuild the course dataset](#rebuilding-the-dataset))
+* Node.js 18+ (20 LTS recommended)
+* npm or bun
+* Python 3.9+ (for dataset rebuilds)
 
 ---
 
-## Run the app (development)
+## Run the App (Development)
 
-1. **Open a terminal** and go to the UAdvisor project folder:
+```bash
+cd UAdvisor
+npm install
+npm run dev
+```
 
-   ```bash
-   cd UAdvisor
-   ```
+Open in browser:
 
-2. **Install dependencies**
-
-   With npm:
-
-   ```bash
-   npm install
-   ```
-
-   Or with bun:
-
-   ```bash
-   bun install
-   ```
-
-3. **Start the dev server**
-
-   ```bash
-   npm run dev
-   ```
-
-   The app is served at **http://localhost:8080** (port is set in `vite.config.ts`).
-
-4. **Open the app** in your browser at that URL. Hot reload is enabled while the dev server runs.
-
-To stop the server, press `Ctrl+C` in the terminal.
+```text
+http://localhost:8080
+```
 
 ---
 
-## Production build and preview
-
-Build static assets into `dist/`:
+## Production Build
 
 ```bash
 npm run build
-```
-
-Preview the production build locally (serves the `dist` folder):
-
-```bash
 npm run preview
 ```
 
-Follow the URL printed in the terminal (Vite’s default preview port is often 4173).
-
 ---
 
-## Rebuilding the dataset
-
-Course data, reviews, and merged sections are compiled into `public/dataset.json` by a Python script. A checked-in `dataset.json` is enough to run the UI; use this when you change files under `data-sources/`.
+## Rebuild Dataset
 
 ```bash
 python3 scripts/build_dataset.py
 ```
 
-Re-run the dev server (or refresh the browser) after regenerating the file.
+---
+
+## Project Structure
+
+```text
+src/                    React application
+public/dataset.json     Generated dataset used by UI
+data-sources/           Raw source files
+scripts/build_dataset.py Dataset builder
+```
 
 ---
 
-## Other commands
+## Why UAdvisor Matters
 
-| Command          | Description                    |
-| ---------------- | ------------------------------ |
-| `npm run lint`   | Run ESLint                     |
-| `npm run test`   | Run Vitest tests once          |
-| `npm run test:watch` | Run Vitest in watch mode  |
+Students often make course decisions using scattered sources and guesswork.
+
+UAdvisor turns fragmented data into personalized guidance—saving time, reducing stress, and helping students build better academic schedules.
 
 ---
 
-## Project layout (short)
+## Future Enhancements
 
-- `src/` — React app, pages, components, match logic
-- `public/dataset.json` — Built catalog used at runtime
-- `data-sources/` — Raw CSV/JSON inputs for the build script
-- `scripts/build_dataset.py` — Merges sources into `public/dataset.json`
+* AI chatbot for course advising
+* Degree audit integration
+* Graduation path planning
+* Peer recommendation graph
+* Waitlist probability predictions
+* Mobile app version
+* Real-time seat availability alerts
 
 ---
 
 ## License
 
-See the repository’s top-level license (if any).
+See top-level repository license if available.
