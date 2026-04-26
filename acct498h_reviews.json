@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "school": "arizona",
+    "course_code": "ACCT 498H",
+    "course_url": "https://www.coursicle.com/arizona/courses/ACCT/498H/",
+    "scraped_at": "2026-04-25T15:55:50",
+    "professors_found": [
+      "Jayanthi Sunder",
+      "Shyam Sunder",
+      "Jeffrey Schatzberg",
+      "Preeti Choudhary",
+      "Karen Otto",
+      "Lisa Thain",
+      "Richard Mergenthaler"
+    ],
+    "review_count": 0
+  },
+  "by_professor": {
+    "Jayanthi Sunder": [],
+    "Shyam Sunder": [],
+    "Jeffrey Schatzberg": [],
+    "Preeti Choudhary": [],
+    "Karen Otto": [],
+    "Lisa Thain": [],
+    "Richard Mergenthaler": []
+  },
+  "categorized": {
+    "by_submitted_year": {},
+    "by_student_year": {},
+    "by_major": {}
+  },
+  "all_reviews": []
+}

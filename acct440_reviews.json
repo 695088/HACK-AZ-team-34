@@ -1,0 +1,216 @@
+{
+  "meta": {
+    "school": "arizona",
+    "course_code": "ACCT 440",
+    "course_url": "https://www.coursicle.com/arizona/courses/ACCT/440/",
+    "scraped_at": "2026-04-25T15:55:46",
+    "professors_found": [
+      "Ann Mcgrath"
+    ],
+    "review_count": 6
+  },
+  "by_professor": {
+    "Ann Mcgrath": [
+      {
+        "id": "12597857",
+        "professor": "Ann Mcgrath",
+        "course": "ACCT 440",
+        "submitted_at": "2025-07-30T15:52:17",
+        "submitted_year": 2025,
+        "review_age": "8mo",
+        "student_year": "Senior",
+        "student_major": "APPL",
+        "review_text": "I wish I knew this about Ann before I started...but she is the only Audit/Ethics professor and was involved in fraud and had her CPA revoked. Look up \"Ann McGrath Arthur Andersen Scandal\" and a Los Angeles article will show she had to relinquish her license. What kind of stuff we are supposed to learn from someone involved in fraud? Think on that.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "12597859",
+        "professor": "Ann Mcgrath",
+        "course": "ACCT 440",
+        "submitted_at": "2025-05-15T22:38:34",
+        "submitted_year": 2025,
+        "review_age": "11mo",
+        "student_year": "Senior",
+        "student_major": "MKTG",
+        "review_text": "I ignored the bad reviews when I enrolled in this course. I shouldn't have. For your well being, do not take this class or this professor if you have the option. Every point counts from the very beginning.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "12597860",
+        "professor": "Ann Mcgrath",
+        "course": "ACCT 440",
+        "submitted_at": "2025-05-06T23:16:32",
+        "submitted_year": 2025,
+        "review_age": "11mo",
+        "student_year": "Senior",
+        "student_major": "ACCT",
+        "review_text": "No one likes this professor, she loves talking about how she's from Brooklyn and that's her only personality trait. Her class itself is fairly interesting, but the tests are hard for no reason. Both classes she teaches should be relatively easy, but instead the tests are hard and she doesn't provide good review.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "12597864",
+        "professor": "Ann Mcgrath",
+        "course": "ACCT 440",
+        "submitted_at": "2025-03-31T22:12:23",
+        "submitted_year": 2025,
+        "review_age": "1y",
+        "student_year": "Senior",
+        "student_major": "MGMT",
+        "review_text": "don't take this prof",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "5612489",
+        "professor": "Ann Mcgrath",
+        "course": "ACCT 440",
+        "submitted_at": "2023-04-25T22:55:46",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Senior",
+        "student_major": "MKTG",
+        "review_text": "This professor is great! I liked her class despite not really having an interest in going into healthcare accounting after graduation. No extra credit. The group project is tough but with a good group you guys will get through it. She is a stern professor but she is still nice. Make sure to study in advance for her exams.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "5612491",
+        "professor": "Ann Mcgrath",
+        "course": "ACCT 440",
+        "submitted_at": "2023-04-25T22:55:46",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Senior",
+        "student_major": "FIN",
+        "review_text": "Ann made the class fun, which was enough to keep me going through the semester. Her stories and practice assignments were helpful for learning overall, and not just for the exam. 440 is forgiving, do not let the healthcare topics intimidate you.",
+        "votes": 0,
+        "replying_to_id": null
+      }
+    ]
+  },
+  "categorized": {
+    "by_submitted_year": {
+      "2025": [
+        "12597857",
+        "12597859",
+        "12597860",
+        "12597864"
+      ],
+      "2023": [
+        "5612489",
+        "5612491"
+      ]
+    },
+    "by_student_year": {
+      "Senior": [
+        "12597857",
+        "12597859",
+        "12597860",
+        "12597864",
+        "5612489",
+        "5612491"
+      ]
+    },
+    "by_major": {
+      "APPL": [
+        "12597857"
+      ],
+      "MKTG": [
+        "12597859",
+        "5612489"
+      ],
+      "ACCT": [
+        "12597860"
+      ],
+      "MGMT": [
+        "12597864"
+      ],
+      "FIN": [
+        "5612491"
+      ]
+    }
+  },
+  "all_reviews": [
+    {
+      "id": "12597857",
+      "professor": "Ann Mcgrath",
+      "course": "ACCT 440",
+      "submitted_at": "2025-07-30T15:52:17",
+      "submitted_year": 2025,
+      "review_age": "8mo",
+      "student_year": "Senior",
+      "student_major": "APPL",
+      "review_text": "I wish I knew this about Ann before I started...but she is the only Audit/Ethics professor and was involved in fraud and had her CPA revoked. Look up \"Ann McGrath Arthur Andersen Scandal\" and a Los Angeles article will show she had to relinquish her license. What kind of stuff we are supposed to learn from someone involved in fraud? Think on that.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "12597859",
+      "professor": "Ann Mcgrath",
+      "course": "ACCT 440",
+      "submitted_at": "2025-05-15T22:38:34",
+      "submitted_year": 2025,
+      "review_age": "11mo",
+      "student_year": "Senior",
+      "student_major": "MKTG",
+      "review_text": "I ignored the bad reviews when I enrolled in this course. I shouldn't have. For your well being, do not take this class or this professor if you have the option. Every point counts from the very beginning.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "12597860",
+      "professor": "Ann Mcgrath",
+      "course": "ACCT 440",
+      "submitted_at": "2025-05-06T23:16:32",
+      "submitted_year": 2025,
+      "review_age": "11mo",
+      "student_year": "Senior",
+      "student_major": "ACCT",
+      "review_text": "No one likes this professor, she loves talking about how she's from Brooklyn and that's her only personality trait. Her class itself is fairly interesting, but the tests are hard for no reason. Both classes she teaches should be relatively easy, but instead the tests are hard and she doesn't provide good review.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "12597864",
+      "professor": "Ann Mcgrath",
+      "course": "ACCT 440",
+      "submitted_at": "2025-03-31T22:12:23",
+      "submitted_year": 2025,
+      "review_age": "1y",
+      "student_year": "Senior",
+      "student_major": "MGMT",
+      "review_text": "don't take this prof",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5612489",
+      "professor": "Ann Mcgrath",
+      "course": "ACCT 440",
+      "submitted_at": "2023-04-25T22:55:46",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Senior",
+      "student_major": "MKTG",
+      "review_text": "This professor is great! I liked her class despite not really having an interest in going into healthcare accounting after graduation. No extra credit. The group project is tough but with a good group you guys will get through it. She is a stern professor but she is still nice. Make sure to study in advance for her exams.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5612491",
+      "professor": "Ann Mcgrath",
+      "course": "ACCT 440",
+      "submitted_at": "2023-04-25T22:55:46",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Senior",
+      "student_major": "FIN",
+      "review_text": "Ann made the class fun, which was enough to keep me going through the semester. Her stories and practice assignments were helpful for learning overall, and not just for the exam. 440 is forgiving, do not let the healthcare topics intimidate you.",
+      "votes": 0,
+      "replying_to_id": null
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "school": "arizona",
+    "course_code": "ACCT 451",
+    "course_url": "https://www.coursicle.com/arizona/courses/ACCT/451/",
+    "scraped_at": "2026-04-25T15:55:47",
+    "professors_found": [
+      "Jiewei Yu",
+      "Mei Cheng",
+      "James Brushwood"
+    ],
+    "review_count": 2
+  },
+  "by_professor": {
+    "Jiewei Yu": [],
+    "Mei Cheng": [
+      {
+        "id": "5612543",
+        "professor": "Mei Cheng",
+        "course": "ACCT 451",
+        "submitted_at": "2023-04-25T22:55:47",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Senior",
+        "student_major": "AME",
+        "review_text": "Mei Cheng is the best accounting teacher at UA.  She makes things SO easy to understand, and her class is COMPLETELY fair.  If you want an A, you have to work really hard, but you get a cheat sheet for the exams!  She always puts her students first and answers questions all day every day.  She completely engages her students and is so kind.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "5612546",
+        "professor": "Mei Cheng",
+        "course": "ACCT 451",
+        "submitted_at": "2023-04-25T22:55:47",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Senior",
+        "student_major": "ACCT",
+        "review_text": "Very thick accent which makes understanding accounting that much more fun. Says she gives partial credit which is completely untrue. The material makes sense to her but she rarely communicates it in an effective manner. Also makes a lot of mistakes while lecturing indicating even she does not understand financial statement analysis.",
+        "votes": -1,
+        "replying_to_id": null
+      }
+    ],
+    "James Brushwood": []
+  },
+  "categorized": {
+    "by_submitted_year": {
+      "2023": [
+        "5612543",
+        "5612546"
+      ]
+    },
+    "by_student_year": {
+      "Senior": [
+        "5612543",
+        "5612546"
+      ]
+    },
+    "by_major": {
+      "AME": [
+        "5612543"
+      ],
+      "ACCT": [
+        "5612546"
+      ]
+    }
+  },
+  "all_reviews": [
+    {
+      "id": "5612543",
+      "professor": "Mei Cheng",
+      "course": "ACCT 451",
+      "submitted_at": "2023-04-25T22:55:47",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Senior",
+      "student_major": "AME",
+      "review_text": "Mei Cheng is the best accounting teacher at UA.  She makes things SO easy to understand, and her class is COMPLETELY fair.  If you want an A, you have to work really hard, but you get a cheat sheet for the exams!  She always puts her students first and answers questions all day every day.  She completely engages her students and is so kind.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5612546",
+      "professor": "Mei Cheng",
+      "course": "ACCT 451",
+      "submitted_at": "2023-04-25T22:55:47",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Senior",
+      "student_major": "ACCT",
+      "review_text": "Very thick accent which makes understanding accounting that much more fun. Says she gives partial credit which is completely untrue. The material makes sense to her but she rarely communicates it in an effective manner. Also makes a lot of mistakes while lecturing indicating even she does not understand financial statement analysis.",
+      "votes": -1,
+      "replying_to_id": null
+    }
+  ]
+}

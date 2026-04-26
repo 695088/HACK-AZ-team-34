@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "school": "arizona",
+    "course_code": "ACCT 472A",
+    "course_url": "https://www.coursicle.com/arizona/courses/ACCT/472A/",
+    "scraped_at": "2026-04-25T15:55:49",
+    "professors_found": [
+      "Heather Altman",
+      "Christine Borowec"
+    ],
+    "review_count": 0
+  },
+  "by_professor": {
+    "Heather Altman": [],
+    "Christine Borowec": []
+  },
+  "categorized": {
+    "by_submitted_year": {},
+    "by_student_year": {},
+    "by_major": {}
+  },
+  "all_reviews": []
+}

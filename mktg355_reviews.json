@@ -1,0 +1,216 @@
+{
+  "meta": {
+    "school": "arizona",
+    "course_code": "MKTG 355",
+    "course_url": "https://www.coursicle.com/arizona/courses/MKTG/355/",
+    "scraped_at": "2026-04-25T18:39:00",
+    "professors_found": [
+      "Christopher Moran",
+      "Victor Piscitello"
+    ],
+    "review_count": 6
+  },
+  "by_professor": {
+    "Christopher Moran": [],
+    "Victor Piscitello": [
+      {
+        "id": "5595134",
+        "professor": "Victor Piscitello",
+        "course": "MKTG 355",
+        "submitted_at": "2023-04-26T01:38:59",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Senior",
+        "student_major": "PSY",
+        "review_text": "Hardest online class I have ever taken in all four years of college. Lack of clarity, poor communication through email, no sympathy for his poorly written and misleading syllabus. DO YOURSELF A FAVOR AND AVOID THIS CLASS!",
+        "votes": 4,
+        "replying_to_id": null
+      },
+      {
+        "id": "5595064",
+        "professor": "Victor Piscitello",
+        "course": "MKTG 355",
+        "submitted_at": "2023-04-26T01:38:59",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Junior",
+        "student_major": "AME",
+        "review_text": "Piscitello isn't the nicest guy, but his class isn't hard at all if you take it online. Read and do all of the homework, quizzes & discussions. Quiz answers are online, discussions are graded on effort. Exams are proctored and questions can be kinda tricky, but they're exactly like the quizzes and are super easy even if you just skim the readings.",
+        "votes": 3,
+        "replying_to_id": null
+      },
+      {
+        "id": "5595150",
+        "professor": "Victor Piscitello",
+        "course": "MKTG 355",
+        "submitted_at": "2023-04-26T01:38:59",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Junior",
+        "student_major": "MKTG",
+        "review_text": "Vic is a great guy who really cares about his students. He loves the material he teaches, and this class is super easy. Literally hands out an A because of the athletes in the class, which is a good thing. Definitely do the Suns project, its the easiest and there are less presentations and group work required.",
+        "votes": 2,
+        "replying_to_id": null
+      },
+      {
+        "id": "5595154",
+        "professor": "Victor Piscitello",
+        "course": "MKTG 355",
+        "submitted_at": "2023-04-26T01:38:59",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Junior",
+        "student_major": "MKTG",
+        "review_text": "Really nice guy who responded to emails quickly. I felt like I was doing horribly on the quizzes and failing miserably, but at the end of the course I finished with a B! Not too bad, just really make sure you read the textbook.",
+        "votes": 2,
+        "replying_to_id": null
+      },
+      {
+        "id": "5594938",
+        "professor": "Victor Piscitello",
+        "course": "MKTG 355",
+        "submitted_at": "2023-04-26T01:38:59",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Senior",
+        "student_major": "AME",
+        "review_text": "Class should be called Story Time with Vic. Thinks hes the smartest guy in the room and tries to keep it that way. Said a 78% average on test 1 was fantastic. Does not teach at all. Just mentions the same stories. Calls on people randomly and wants you to feed his ego by answering how he wants you to answer even if it doesnt apply to anyone.",
+        "votes": 1,
+        "replying_to_id": null
+      },
+      {
+        "id": "5594981",
+        "professor": "Victor Piscitello",
+        "course": "MKTG 355",
+        "submitted_at": "2023-04-26T01:38:59",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Senior",
+        "student_major": "ENGR",
+        "review_text": "This class was an absolute joke. He just goes off on tangents about the Bears or roasts some kids in class for whatever reason it may be. He doesn't really go over the material that you need to tests, quizzes or the group project and often times you will find yourself lost wondering what in the world to do or what to study for. Stay away from Vic.",
+        "votes": 0,
+        "replying_to_id": null
+      }
+    ]
+  },
+  "categorized": {
+    "by_submitted_year": {
+      "2023": [
+        "5595134",
+        "5595064",
+        "5595150",
+        "5595154",
+        "5594938",
+        "5594981"
+      ]
+    },
+    "by_student_year": {
+      "Senior": [
+        "5595134",
+        "5594938",
+        "5594981"
+      ],
+      "Junior": [
+        "5595064",
+        "5595150",
+        "5595154"
+      ]
+    },
+    "by_major": {
+      "PSY": [
+        "5595134"
+      ],
+      "AME": [
+        "5595064",
+        "5594938"
+      ],
+      "MKTG": [
+        "5595150",
+        "5595154"
+      ],
+      "ENGR": [
+        "5594981"
+      ]
+    }
+  },
+  "all_reviews": [
+    {
+      "id": "5595134",
+      "professor": "Victor Piscitello",
+      "course": "MKTG 355",
+      "submitted_at": "2023-04-26T01:38:59",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Senior",
+      "student_major": "PSY",
+      "review_text": "Hardest online class I have ever taken in all four years of college. Lack of clarity, poor communication through email, no sympathy for his poorly written and misleading syllabus. DO YOURSELF A FAVOR AND AVOID THIS CLASS!",
+      "votes": 4,
+      "replying_to_id": null
+    },
+    {
+      "id": "5595064",
+      "professor": "Victor Piscitello",
+      "course": "MKTG 355",
+      "submitted_at": "2023-04-26T01:38:59",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Junior",
+      "student_major": "AME",
+      "review_text": "Piscitello isn't the nicest guy, but his class isn't hard at all if you take it online. Read and do all of the homework, quizzes & discussions. Quiz answers are online, discussions are graded on effort. Exams are proctored and questions can be kinda tricky, but they're exactly like the quizzes and are super easy even if you just skim the readings.",
+      "votes": 3,
+      "replying_to_id": null
+    },
+    {
+      "id": "5595150",
+      "professor": "Victor Piscitello",
+      "course": "MKTG 355",
+      "submitted_at": "2023-04-26T01:38:59",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Junior",
+      "student_major": "MKTG",
+      "review_text": "Vic is a great guy who really cares about his students. He loves the material he teaches, and this class is super easy. Literally hands out an A because of the athletes in the class, which is a good thing. Definitely do the Suns project, its the easiest and there are less presentations and group work required.",
+      "votes": 2,
+      "replying_to_id": null
+    },
+    {
+      "id": "5595154",
+      "professor": "Victor Piscitello",
+      "course": "MKTG 355",
+      "submitted_at": "2023-04-26T01:38:59",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Junior",
+      "student_major": "MKTG",
+      "review_text": "Really nice guy who responded to emails quickly. I felt like I was doing horribly on the quizzes and failing miserably, but at the end of the course I finished with a B! Not too bad, just really make sure you read the textbook.",
+      "votes": 2,
+      "replying_to_id": null
+    },
+    {
+      "id": "5594938",
+      "professor": "Victor Piscitello",
+      "course": "MKTG 355",
+      "submitted_at": "2023-04-26T01:38:59",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Senior",
+      "student_major": "AME",
+      "review_text": "Class should be called Story Time with Vic. Thinks hes the smartest guy in the room and tries to keep it that way. Said a 78% average on test 1 was fantastic. Does not teach at all. Just mentions the same stories. Calls on people randomly and wants you to feed his ego by answering how he wants you to answer even if it doesnt apply to anyone.",
+      "votes": 1,
+      "replying_to_id": null
+    },
+    {
+      "id": "5594981",
+      "professor": "Victor Piscitello",
+      "course": "MKTG 355",
+      "submitted_at": "2023-04-26T01:38:59",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Senior",
+      "student_major": "ENGR",
+      "review_text": "This class was an absolute joke. He just goes off on tangents about the Bears or roasts some kids in class for whatever reason it may be. He doesn't really go over the material that you need to tests, quizzes or the group project and often times you will find yourself lost wondering what in the world to do or what to study for. Stay away from Vic.",
+      "votes": 0,
+      "replying_to_id": null
+    }
+  ]
+}

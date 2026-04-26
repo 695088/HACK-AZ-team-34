@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "school": "arizona",
+    "course_code": "BNAD 240",
+    "course_url": "https://www.coursicle.com/arizona/courses/BNAD/240/",
+    "scraped_at": "2026-04-25T18:14:44",
+    "professors_found": [
+      "Marisa Allen",
+      "Jeff Welter",
+      "William Bangs",
+      "Jeffrey Welter"
+    ],
+    "review_count": 0
+  },
+  "by_professor": {
+    "Marisa Allen": [],
+    "Jeff Welter": [],
+    "William Bangs": [],
+    "Jeffrey Welter": []
+  },
+  "categorized": {
+    "by_submitted_year": {},
+    "by_student_year": {},
+    "by_major": {}
+  },
+  "all_reviews": []
+}

@@ -1,0 +1,675 @@
+{
+  "meta": {
+    "school": "arizona",
+    "course_code": "ACCT 420",
+    "course_url": "https://www.coursicle.com/arizona/courses/ACCT/420/",
+    "scraped_at": "2026-04-25T15:55:45",
+    "professors_found": [
+      "Justin Kim",
+      "Shannon Chen",
+      "Alison Mackie",
+      "Katharine Drake",
+      "Breanna Cicinelli"
+    ],
+    "review_count": 21
+  },
+  "by_professor": {
+    "Justin Kim": [],
+    "Shannon Chen": [
+      {
+        "id": "12597966",
+        "professor": "Shannon Chen",
+        "course": "ACCT 420",
+        "submitted_at": "2026-01-15T23:08:17",
+        "submitted_year": 2026,
+        "review_age": "3mo",
+        "student_year": "Junior",
+        "student_major": "ACCT",
+        "review_text": "Shannon is an incredible lecturer. Her class is challenging, she is understanding, and genuinely wants you to succeed. She's extremely helpful during office hours and always makes sure you understand. The exams are tough, this has been my hardest class so far even with hours of studying. She is the sweetest and enjoys teaching this class.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "12597976",
+        "professor": "Shannon Chen",
+        "course": "ACCT 420",
+        "submitted_at": "2026-01-15T23:03:11",
+        "submitted_year": 2026,
+        "review_age": "3mo",
+        "student_year": "Junior",
+        "student_major": "ACCT",
+        "review_text": "Super nice but the tests were very difficult and didn't feel prepared for them",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "12597980",
+        "professor": "Shannon Chen",
+        "course": "ACCT 420",
+        "submitted_at": "2025-12-20T19:39:14",
+        "submitted_year": 2025,
+        "review_age": "4mo",
+        "student_year": "Sophomore",
+        "student_major": "ACCT",
+        "review_text": "Chen is a wonderful professor and person, and her lectures are always engaging and interesting. However, the content can be challenging with how many rules, exceptions, and exceptions to exceptions there are. By far the most challenging course I've taken, but also very light coursework-wise (4 projects, 3 exams, and pre- & post-class quizzes).",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "12597983",
+        "professor": "Shannon Chen",
+        "course": "ACCT 420",
+        "submitted_at": "2025-12-18T15:36:32",
+        "submitted_year": 2025,
+        "review_age": "4mo",
+        "student_year": "Sophomore",
+        "student_major": "ACCT",
+        "review_text": "This class was difficult but Shannon made it very engaging. Lots of new material and pre and post class quizzes- i got 100 on all of them so definitely do able. Go to office hours and ask questions it's where I learned most of my stuff. You get a note card for the exam.  Tax returns are easy she lets you compare with students in office hours.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "12597988",
+        "professor": "Shannon Chen",
+        "course": "ACCT 420",
+        "submitted_at": "2025-03-06T21:21:07",
+        "submitted_year": 2025,
+        "review_age": "1y",
+        "student_year": "Sophomore",
+        "student_major": "ACCT",
+        "review_text": "Acct 420 is a tricky class with a lot of moving parts. However, Professor Chen is so nice and passionate about taxes that I often felt engaged during each lecture. Overall enjoyable class even if I didn't do very well on the really hard exams.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "12597992",
+        "professor": "Shannon Chen",
+        "course": "ACCT 420",
+        "submitted_at": "2025-01-08T01:15:17",
+        "submitted_year": 2025,
+        "review_age": "1y",
+        "student_year": "Junior",
+        "student_major": "ACCT",
+        "review_text": "Shannon is literally the best! There are a LOT of rules. I would suggest studying early for exams each unit, as there will be a lot to remember for each test. Very fair exams and projects, and she made understanding and applying the content very simple. So helpful. Study how she solves the problems in class (& do optional HW!). Very enjoyable class",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "12597995",
+        "professor": "Shannon Chen",
+        "course": "ACCT 420",
+        "submitted_at": "2024-12-16T00:17:08",
+        "submitted_year": 2024,
+        "review_age": "1y",
+        "student_year": "Junior",
+        "student_major": "ACCT",
+        "review_text": "Download her slides before class and take notes during lectures to focus on how she approaches problems. I don't recommend studying the textbook or taking notes without her slides. Do practice problems and study the concepts in her slides, as it's a rule-based class. Homework is optional, and there are many extra credit opportunities. She is kind.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "5612613",
+        "professor": "Shannon Chen",
+        "course": "ACCT 420",
+        "submitted_at": "2023-09-12T18:36:39",
+        "submitted_year": 2023,
+        "review_age": "2y",
+        "student_year": "Senior",
+        "student_major": "ACCT",
+        "review_text": "Professor Chen is great and even with her gentle voice, she maintained respect from her students. She made tax fun and is very helpful during her office hours.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "5612620",
+        "professor": "Shannon Chen",
+        "course": "ACCT 420",
+        "submitted_at": "2023-04-25T22:55:45",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Senior",
+        "student_major": "BUSN",
+        "review_text": "Shannon is a great professor and is a large part of why her class was my favorite of the semester. Although the content can be challenging at times, she goes through it very clearly and is always willing to help, especially with quality-of-life things like recording each lecture and allowing you to go to a different.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "5612626",
+        "professor": "Shannon Chen",
+        "course": "ACCT 420",
+        "submitted_at": "2023-04-25T22:55:45",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Senior",
+        "student_major": "PR",
+        "review_text": "My favorite class during my first semester at Eller. Shannon's lectures are never boring, so it's always fun to goto class. There's also a ton of extra credit. Be excited to learn tax with her!",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "5612634",
+        "professor": "Shannon Chen",
+        "course": "ACCT 420",
+        "submitted_at": "2023-04-25T22:55:45",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Senior",
+        "student_major": "MKTG",
+        "review_text": "Shannon makes taxation fun and easy to learn. The format also gave a lot of flexibility. Class has pre-lecture videos and lecture is spent reviewing quizzes and highlights from pre-lecture. Professor Chen is also easy to contact and very helpful in office hours.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "5612640",
+        "professor": "Shannon Chen",
+        "course": "ACCT 420",
+        "submitted_at": "2023-04-25T22:55:45",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Senior",
+        "student_major": "FIN",
+        "review_text": "Shannon was a lovely professor! I think she is relatively new but I really enjoyed going to her lectures every week, she made it seem like she was happy to be there too. The content is not any worse than your other accounting courses, and with the right study habits and getting fine grades on quizzes you'll be fine. Lots of extra credit too!",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "5612649",
+        "professor": "Shannon Chen",
+        "course": "ACCT 420",
+        "submitted_at": "2023-04-25T22:55:45",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Senior",
+        "student_major": "ACCT",
+        "review_text": "Never seen a professor get so much respect from her students. Some students gave her flowers on our final exam day, which shows how much she cares for the class and her students. Challenging subject, but definitely worth the time :) 10/10",
+        "votes": 0,
+        "replying_to_id": null
+      }
+    ],
+    "Alison Mackie": [
+      {
+        "id": "12597837",
+        "professor": "Alison Mackie",
+        "course": "ACCT 420",
+        "submitted_at": "2025-08-19T22:28:43",
+        "submitted_year": 2025,
+        "review_age": "8mo",
+        "student_year": "Junior",
+        "student_major": "ACCT",
+        "review_text": "I had basically no interactions with this professor and heard more from the course facilitators. Of the interactions I did have with Prof. Mackie, she did not seem understanding of personal situations at all. It seemed as though she already had her mind made up to give me a 0 on graded work but let me explain my situation out of courtesy/policy.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "5612483",
+        "professor": "Alison Mackie",
+        "course": "ACCT 420",
+        "submitted_at": "2023-09-15T01:12:24",
+        "submitted_year": 2023,
+        "review_age": "2y",
+        "student_year": "Senior",
+        "student_major": "ENTR",
+        "review_text": "ACCT 310. The worst accounting professor at Eller. She teaches the class in a disorganized manner. You are quizzed on things never discussed in class. She literally tries to trick her students on purpose. Do not take her if you do not have to.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "5612485",
+        "professor": "Alison Mackie",
+        "course": "ACCT 420",
+        "submitted_at": "2023-04-25T22:55:45",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Senior",
+        "student_major": "MKTG",
+        "review_text": "Alison is a nice person but not that helpful when you ask her content questions. She makes a lot of mistakes during lectures and students have to point it out for her to realize. She basically just reads the slides and is not that knowledgeable about the content. Exams are 50 questions with only 75 min and it is almost impossible to finish on time!",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "5612487",
+        "professor": "Alison Mackie",
+        "course": "ACCT 420",
+        "submitted_at": "2023-04-25T22:55:45",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Senior",
+        "student_major": "ACCT",
+        "review_text": "Alison is clearly new to teaching, but she is kind. Every lecture she makes lots of major mistakes while completing problems that often aren't pointed out unless a student realizes. Beware of the after class quizzes as they will kill your grade, but besides that, before class quizzes and tax return projects aren't too bad. Exams can be difficult.",
+        "votes": 0,
+        "replying_to_id": null
+      }
+    ],
+    "Katharine Drake": [
+      {
+        "id": "5612523",
+        "professor": "Katharine Drake",
+        "course": "ACCT 420",
+        "submitted_at": "2023-04-25T22:55:45",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Senior",
+        "student_major": "PSYC",
+        "review_text": "Katharine is by far one of the best professors at Eller. She's extremely knowledgeable on the subject and teaches it very well. While the course is content heavy, the way she sets it up is manageable, and she cares very deeply about her students! Even though I dislike tax, she helped make the class interesting and fun.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "5612525",
+        "professor": "Katharine Drake",
+        "course": "ACCT 420",
+        "submitted_at": "2023-04-25T22:55:45",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Senior",
+        "student_major": "ACCT",
+        "review_text": "I loved this class! Professor Drake cares about her students and is very responsive. If you have any questions about the material make sure to email her. This class is not very test heavy. There are daily quizzes, big quizzes, tax returns, and exams. Exams are worth 10% of your grade each. 30% total. Thoroughly enjoyed this class!",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "5612527",
+        "professor": "Katharine Drake",
+        "course": "ACCT 420",
+        "submitted_at": "2023-04-25T22:55:45",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Senior",
+        "student_major": "FIN",
+        "review_text": "By far the BEST accounting professor in all of Eller. The class itself is normal difficulty, but its real world applicability makes up for it. Needing to know how to file taxes is overwhelming for most people, but this class makes it a piece of cake. Katharine is extremely knowledgeable in the subject and approachable beyond compare. 10/10",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "5612529",
+        "professor": "Katharine Drake",
+        "course": "ACCT 420",
+        "submitted_at": "2023-04-25T22:55:45",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Senior",
+        "student_major": "BNAD",
+        "review_text": "Great professor. Teaches income tax very well. There are quizzes everyday based on problems and readings from the textbook. She does her best to keep everyone interested in the subject, and help you learn when you don't understand.",
+        "votes": 0,
+        "replying_to_id": null
+      }
+    ],
+    "Breanna Cicinelli": []
+  },
+  "categorized": {
+    "by_submitted_year": {
+      "2026": [
+        "12597966",
+        "12597976"
+      ],
+      "2025": [
+        "12597980",
+        "12597983",
+        "12597988",
+        "12597992",
+        "12597837"
+      ],
+      "2024": [
+        "12597995"
+      ],
+      "2023": [
+        "5612613",
+        "5612620",
+        "5612626",
+        "5612634",
+        "5612640",
+        "5612649",
+        "5612483",
+        "5612485",
+        "5612487",
+        "5612523",
+        "5612525",
+        "5612527",
+        "5612529"
+      ]
+    },
+    "by_student_year": {
+      "Junior": [
+        "12597966",
+        "12597976",
+        "12597992",
+        "12597995",
+        "12597837"
+      ],
+      "Sophomore": [
+        "12597980",
+        "12597983",
+        "12597988"
+      ],
+      "Senior": [
+        "5612613",
+        "5612620",
+        "5612626",
+        "5612634",
+        "5612640",
+        "5612649",
+        "5612483",
+        "5612485",
+        "5612487",
+        "5612523",
+        "5612525",
+        "5612527",
+        "5612529"
+      ]
+    },
+    "by_major": {
+      "ACCT": [
+        "12597966",
+        "12597976",
+        "12597980",
+        "12597983",
+        "12597988",
+        "12597992",
+        "12597995",
+        "5612613",
+        "5612649",
+        "12597837",
+        "5612487",
+        "5612525"
+      ],
+      "BUSN": [
+        "5612620"
+      ],
+      "PR": [
+        "5612626"
+      ],
+      "MKTG": [
+        "5612634",
+        "5612485"
+      ],
+      "FIN": [
+        "5612640",
+        "5612527"
+      ],
+      "ENTR": [
+        "5612483"
+      ],
+      "PSYC": [
+        "5612523"
+      ],
+      "BNAD": [
+        "5612529"
+      ]
+    }
+  },
+  "all_reviews": [
+    {
+      "id": "12597966",
+      "professor": "Shannon Chen",
+      "course": "ACCT 420",
+      "submitted_at": "2026-01-15T23:08:17",
+      "submitted_year": 2026,
+      "review_age": "3mo",
+      "student_year": "Junior",
+      "student_major": "ACCT",
+      "review_text": "Shannon is an incredible lecturer. Her class is challenging, she is understanding, and genuinely wants you to succeed. She's extremely helpful during office hours and always makes sure you understand. The exams are tough, this has been my hardest class so far even with hours of studying. She is the sweetest and enjoys teaching this class.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "12597976",
+      "professor": "Shannon Chen",
+      "course": "ACCT 420",
+      "submitted_at": "2026-01-15T23:03:11",
+      "submitted_year": 2026,
+      "review_age": "3mo",
+      "student_year": "Junior",
+      "student_major": "ACCT",
+      "review_text": "Super nice but the tests were very difficult and didn't feel prepared for them",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "12597980",
+      "professor": "Shannon Chen",
+      "course": "ACCT 420",
+      "submitted_at": "2025-12-20T19:39:14",
+      "submitted_year": 2025,
+      "review_age": "4mo",
+      "student_year": "Sophomore",
+      "student_major": "ACCT",
+      "review_text": "Chen is a wonderful professor and person, and her lectures are always engaging and interesting. However, the content can be challenging with how many rules, exceptions, and exceptions to exceptions there are. By far the most challenging course I've taken, but also very light coursework-wise (4 projects, 3 exams, and pre- & post-class quizzes).",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "12597983",
+      "professor": "Shannon Chen",
+      "course": "ACCT 420",
+      "submitted_at": "2025-12-18T15:36:32",
+      "submitted_year": 2025,
+      "review_age": "4mo",
+      "student_year": "Sophomore",
+      "student_major": "ACCT",
+      "review_text": "This class was difficult but Shannon made it very engaging. Lots of new material and pre and post class quizzes- i got 100 on all of them so definitely do able. Go to office hours and ask questions it's where I learned most of my stuff. You get a note card for the exam.  Tax returns are easy she lets you compare with students in office hours.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "12597988",
+      "professor": "Shannon Chen",
+      "course": "ACCT 420",
+      "submitted_at": "2025-03-06T21:21:07",
+      "submitted_year": 2025,
+      "review_age": "1y",
+      "student_year": "Sophomore",
+      "student_major": "ACCT",
+      "review_text": "Acct 420 is a tricky class with a lot of moving parts. However, Professor Chen is so nice and passionate about taxes that I often felt engaged during each lecture. Overall enjoyable class even if I didn't do very well on the really hard exams.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "12597992",
+      "professor": "Shannon Chen",
+      "course": "ACCT 420",
+      "submitted_at": "2025-01-08T01:15:17",
+      "submitted_year": 2025,
+      "review_age": "1y",
+      "student_year": "Junior",
+      "student_major": "ACCT",
+      "review_text": "Shannon is literally the best! There are a LOT of rules. I would suggest studying early for exams each unit, as there will be a lot to remember for each test. Very fair exams and projects, and she made understanding and applying the content very simple. So helpful. Study how she solves the problems in class (& do optional HW!). Very enjoyable class",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "12597995",
+      "professor": "Shannon Chen",
+      "course": "ACCT 420",
+      "submitted_at": "2024-12-16T00:17:08",
+      "submitted_year": 2024,
+      "review_age": "1y",
+      "student_year": "Junior",
+      "student_major": "ACCT",
+      "review_text": "Download her slides before class and take notes during lectures to focus on how she approaches problems. I don't recommend studying the textbook or taking notes without her slides. Do practice problems and study the concepts in her slides, as it's a rule-based class. Homework is optional, and there are many extra credit opportunities. She is kind.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5612613",
+      "professor": "Shannon Chen",
+      "course": "ACCT 420",
+      "submitted_at": "2023-09-12T18:36:39",
+      "submitted_year": 2023,
+      "review_age": "2y",
+      "student_year": "Senior",
+      "student_major": "ACCT",
+      "review_text": "Professor Chen is great and even with her gentle voice, she maintained respect from her students. She made tax fun and is very helpful during her office hours.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5612620",
+      "professor": "Shannon Chen",
+      "course": "ACCT 420",
+      "submitted_at": "2023-04-25T22:55:45",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Senior",
+      "student_major": "BUSN",
+      "review_text": "Shannon is a great professor and is a large part of why her class was my favorite of the semester. Although the content can be challenging at times, she goes through it very clearly and is always willing to help, especially with quality-of-life things like recording each lecture and allowing you to go to a different.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5612626",
+      "professor": "Shannon Chen",
+      "course": "ACCT 420",
+      "submitted_at": "2023-04-25T22:55:45",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Senior",
+      "student_major": "PR",
+      "review_text": "My favorite class during my first semester at Eller. Shannon's lectures are never boring, so it's always fun to goto class. There's also a ton of extra credit. Be excited to learn tax with her!",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5612634",
+      "professor": "Shannon Chen",
+      "course": "ACCT 420",
+      "submitted_at": "2023-04-25T22:55:45",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Senior",
+      "student_major": "MKTG",
+      "review_text": "Shannon makes taxation fun and easy to learn. The format also gave a lot of flexibility. Class has pre-lecture videos and lecture is spent reviewing quizzes and highlights from pre-lecture. Professor Chen is also easy to contact and very helpful in office hours.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5612640",
+      "professor": "Shannon Chen",
+      "course": "ACCT 420",
+      "submitted_at": "2023-04-25T22:55:45",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Senior",
+      "student_major": "FIN",
+      "review_text": "Shannon was a lovely professor! I think she is relatively new but I really enjoyed going to her lectures every week, she made it seem like she was happy to be there too. The content is not any worse than your other accounting courses, and with the right study habits and getting fine grades on quizzes you'll be fine. Lots of extra credit too!",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5612649",
+      "professor": "Shannon Chen",
+      "course": "ACCT 420",
+      "submitted_at": "2023-04-25T22:55:45",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Senior",
+      "student_major": "ACCT",
+      "review_text": "Never seen a professor get so much respect from her students. Some students gave her flowers on our final exam day, which shows how much she cares for the class and her students. Challenging subject, but definitely worth the time :) 10/10",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "12597837",
+      "professor": "Alison Mackie",
+      "course": "ACCT 420",
+      "submitted_at": "2025-08-19T22:28:43",
+      "submitted_year": 2025,
+      "review_age": "8mo",
+      "student_year": "Junior",
+      "student_major": "ACCT",
+      "review_text": "I had basically no interactions with this professor and heard more from the course facilitators. Of the interactions I did have with Prof. Mackie, she did not seem understanding of personal situations at all. It seemed as though she already had her mind made up to give me a 0 on graded work but let me explain my situation out of courtesy/policy.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5612483",
+      "professor": "Alison Mackie",
+      "course": "ACCT 420",
+      "submitted_at": "2023-09-15T01:12:24",
+      "submitted_year": 2023,
+      "review_age": "2y",
+      "student_year": "Senior",
+      "student_major": "ENTR",
+      "review_text": "ACCT 310. The worst accounting professor at Eller. She teaches the class in a disorganized manner. You are quizzed on things never discussed in class. She literally tries to trick her students on purpose. Do not take her if you do not have to.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5612485",
+      "professor": "Alison Mackie",
+      "course": "ACCT 420",
+      "submitted_at": "2023-04-25T22:55:45",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Senior",
+      "student_major": "MKTG",
+      "review_text": "Alison is a nice person but not that helpful when you ask her content questions. She makes a lot of mistakes during lectures and students have to point it out for her to realize. She basically just reads the slides and is not that knowledgeable about the content. Exams are 50 questions with only 75 min and it is almost impossible to finish on time!",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5612487",
+      "professor": "Alison Mackie",
+      "course": "ACCT 420",
+      "submitted_at": "2023-04-25T22:55:45",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Senior",
+      "student_major": "ACCT",
+      "review_text": "Alison is clearly new to teaching, but she is kind. Every lecture she makes lots of major mistakes while completing problems that often aren't pointed out unless a student realizes. Beware of the after class quizzes as they will kill your grade, but besides that, before class quizzes and tax return projects aren't too bad. Exams can be difficult.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5612523",
+      "professor": "Katharine Drake",
+      "course": "ACCT 420",
+      "submitted_at": "2023-04-25T22:55:45",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Senior",
+      "student_major": "PSYC",
+      "review_text": "Katharine is by far one of the best professors at Eller. She's extremely knowledgeable on the subject and teaches it very well. While the course is content heavy, the way she sets it up is manageable, and she cares very deeply about her students! Even though I dislike tax, she helped make the class interesting and fun.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5612525",
+      "professor": "Katharine Drake",
+      "course": "ACCT 420",
+      "submitted_at": "2023-04-25T22:55:45",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Senior",
+      "student_major": "ACCT",
+      "review_text": "I loved this class! Professor Drake cares about her students and is very responsive. If you have any questions about the material make sure to email her. This class is not very test heavy. There are daily quizzes, big quizzes, tax returns, and exams. Exams are worth 10% of your grade each. 30% total. Thoroughly enjoyed this class!",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5612527",
+      "professor": "Katharine Drake",
+      "course": "ACCT 420",
+      "submitted_at": "2023-04-25T22:55:45",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Senior",
+      "student_major": "FIN",
+      "review_text": "By far the BEST accounting professor in all of Eller. The class itself is normal difficulty, but its real world applicability makes up for it. Needing to know how to file taxes is overwhelming for most people, but this class makes it a piece of cake. Katharine is extremely knowledgeable in the subject and approachable beyond compare. 10/10",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5612529",
+      "professor": "Katharine Drake",
+      "course": "ACCT 420",
+      "submitted_at": "2023-04-25T22:55:45",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Senior",
+      "student_major": "BNAD",
+      "review_text": "Great professor. Teaches income tax very well. There are quizzes everyday based on problems and readings from the textbook. She does her best to keep everyone interested in the subject, and help you learn when you don't understand.",
+      "votes": 0,
+      "replying_to_id": null
+    }
+  ]
+}

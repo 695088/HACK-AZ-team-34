@@ -1,0 +1,206 @@
+#!/usr/bin/env python3
+"""
+Eller College Faculty Directory Scraper
+Scrapes professor information from https://eller.arizona.edu/departments-research/directory-expertise
+"""
+
+import requests
+from bs4 import BeautifulSoup
+import json
+import time
+import re
+from urllib.parse import urljoin, urlparse
+
+BASE_URL = "https://eller.arizona.edu"
+DIRECTORY_URL = "https://eller.arizona.edu/departments-research/directory-expertise"
+OUTPUT_FILE = "eller_faculty_data.json"
+
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+}
+
+def get_soup(url):
+    """Fetch URL and return BeautifulSoup object"""
+    try:
+        response = requests.get(url, headers=HEADERS, timeout=30)
+        response.raise_for_status()
+        return BeautifulSoup(response.text, 'html.parser')
+    except requests.RequestException as e:
+        print(f"Error fetching {url}: {e}")
+        return None
+
+def extract_text(element, default=""):
+    """Safely extract text from BeautifulSoup element"""
+    return element.get_text(strip=True) if element else default
+
+def extract_list(element):
+    """Extract list items from a container"""
+    if not element:
+        return []
+    items = element.find_all('li')
+    return [extract_text(item) for item in items] if items else []
+
+def parse_professor_profile(profile_url):
+    """Parse individual professor profile page"""
+    print(f"  Parsing: {profile_url}")
+    soup = get_soup(profile_url)
+    if not soup:
+        return None
+    
+    professor = {
+        "url": profile_url,
+        "name": "",
+        "title": "",
+        "phone": "",
+        "email": "",
+        "office": "",
+        "areas_of_expertise": [],
+        "courses": [],
+        "degrees": [],
+        "biography": "",
+        "publications": [],
+        "awards": [],
+        "certifications": [],
+        "professional_associations": [],
+        "links": []
+    }
+    
+    # Extract name (usually in h1 or .page-title)
+    name_elem = soup.find('h1', class_='page-title') or soup.find('h1')
+    professor["name"] = extract_text(name_elem)
+    
+    # Extract title
+    title_elem = soup.find('div', class_='field--name-field-title') or soup.find('p', class_='subtitle')
+    professor["title"] = extract_text(title_elem)
+    
+    # Extract contact info
+    contact_section = soup.find('div', class_='contact-info') or soup.find('section', class_='contact')
+    if contact_section:
+        # Phone
+        phone_elem = contact_section.find(string=lambda text: text and 'phone' in text.lower())
+        if phone_elem:
+            professor["phone"] = extract_text(phone_elem.find_next_sibling() or phone_elem.parent)
+        
+        # Email
+        email_link = contact_section.find('a', href=re.compile(r'^mailto:'))
+        if email_link:
+            professor["email"] = email_link['href'].replace('mailto:', '')
+        
+        # Office
+        office_label = contact_section.find(string=lambda text: text and 'office' in text.lower())
+        if office_label:
+            professor["office"] = extract_text(office_label.find_next_sibling() or office_label.parent)
+    
+    # Areas of Expertise
+    expertise_section = soup.find('div', class_='field--name-field-areas-of-expertise') or \
+                       soup.find('h3', string=re.compile(r'expertise|specialization', re.I))
+    if expertise_section:
+        parent = expertise_section.find_parent() if expertise_section.name == 'h3' else expertise_section
+        professor["areas_of_expertise"] = extract_list(parent.find('ul'))
+    
+    # Courses Taught
+    courses_section = soup.find('div', class_='field--name-field-courses') or \
+                     soup.find('h3', string=re.compile(r'courses?|teaching', re.I))
+    if courses_section:
+        parent = courses_section.find_parent() if courses_section.name == 'h3' else courses_section
+        professor["courses"] = extract_list(parent.find('ul'))
+    
+    # Education/Degrees
+    degrees_section = soup.find('div', class_='field--name-field-education') or \
+                     soup.find('h3', string=re.compile(r'education|degree', re.I))
+    if degrees_section:
+        parent = degrees_section.find_parent() if degrees_section.name == 'h3' else degrees_section
+        professor["degrees"] = extract_list(parent.find('ul'))
+    
+    # Biography
+    bio_section = soup.find('div', class_='field--name-field-biography') or \
+                 soup.find('div', class_='biography') or \
+                 soup.find('section', class_='biography')
+    if bio_section:
+        professor["biography"] = extract_text(bio_section.find('p') or bio_section)
+    
+    # Publications
+    pubs_section = soup.find('div', class_='field--name-field-publications') or \
+                  soup.find('h3', string=re.compile(r'publication|research', re.I))
+    if pubs_section:
+        parent = pubs_section.find_parent() if pubs_section.name == 'h3' else pubs_section
+        professor["publications"] = extract_list(parent.find('ul'))
+    
+    # Awards
+    awards_section = soup.find('div', class_='field--name-field-awards') or \
+                    soup.find('h3', string=re.compile(r'award|honor', re.I))
+    if awards_section:
+        parent = awards_section.find_parent() if awards_section.name == 'h3' else awards_section
+        professor["awards"] = extract_list(parent.find('ul'))
+    
+    # Extract additional links (personal website, SSRN, etc.)
+    links_section = soup.find('div', class_='field--name-field-links')
+    if links_section:
+        for link in links_section.find_all('a'):
+            href = link.get('href', '')
+            text = extract_text(link)
+            if href and text:
+                professor["links"].append({text: href})
+    
+    return professor
+
+def get_faculty_profiles(directory_url):
+    """Extract all professor profile URLs from directory page"""
+    print(f"Fetching directory: {directory_url}")
+    soup = get_soup(directory_url)
+    if not soup:
+        return []
+    
+    profile_urls = []
+    
+    # Find all faculty cards/links - adjust selectors based on actual HTML structure
+    # Common patterns for Drupal/University sites:
+    faculty_links = soup.find_all('a', href=re.compile(r'^/people/'))
+    
+    for link in faculty_links:
+        href = link.get('href', '')
+        if href and '/people/' in href:
+            full_url = urljoin(BASE_URL, href)
+            # Avoid duplicates
+            if full_url not in profile_urls:
+                profile_urls.append(full_url)
+    
+    print(f"Found {len(profile_urls)} faculty profiles")
+    return profile_urls
+
+def main():
+    print("🎓 Eller College Faculty Directory Scraper")
+    print("=" * 50)
+    
+    # Step 1: Get all faculty profile URLs
+    profile_urls = get_faculty_profiles(DIRECTORY_URL)
+    
+    if not profile_urls:
+        print("❌ No faculty profiles found. Check the directory URL or HTML structure.")
+        return
+    
+    # Step 2: Parse each profile
+    all_professors = []
+    
+    for i, url in enumerate(profile_urls, 1):
+        print(f"\n[{i}/{len(profile_urls)}] Processing faculty member...")
+        professor = parse_professor_profile(url)
+        
+        if professor and professor["name"]:
+            all_professors.append(professor)
+            print(f"  ✓ Extracted: {professor['name']}")
+        else:
+            print(f"  ✗ Failed to parse: {url}")
+        
+        # Be respectful - add delay between requests
+        time.sleep(2)
+    
+    # Step 3: Save to JSON
+    print(f"\n💾 Saving {len(all_professors)} records to {OUTPUT_FILE}")
+    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+        json.dump(all_professors, f, indent=2, ensure_ascii=False)
+    
+    print("✅ Done!")
+
+if __name__ == "__main__":
+    main()

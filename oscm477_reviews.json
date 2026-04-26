@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "school": "arizona",
+    "course_code": "OSCM 477",
+    "course_url": "https://www.coursicle.com/arizona/courses/OSCM/477/",
+    "scraped_at": "2026-04-25T18:37:52",
+    "professors_found": [
+      "Ken Gyure"
+    ],
+    "review_count": 2
+  },
+  "by_professor": {
+    "Ken Gyure": [
+      {
+        "id": "12162664",
+        "professor": "Ken Gyure",
+        "course": "OSCM 477",
+        "submitted_at": "2023-12-18T18:31:58",
+        "submitted_year": 2023,
+        "review_age": "2y",
+        "student_year": "Junior",
+        "student_major": "MIS",
+        "review_text": "What a joke. This guy couldn't make it in the real world even at the corporate wasteland Raytheon, so now he teaches. Don't bother asking any questions or you'll be given completely wrong, BS answers.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "5579140",
+        "professor": "Ken Gyure",
+        "course": "OSCM 477",
+        "submitted_at": "2023-04-26T01:37:52",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Senior",
+        "student_major": "FIN",
+        "review_text": "A good professor, class assignments are straightforward, but there is some added complexity on tests. Slide heavy class.",
+        "votes": 0,
+        "replying_to_id": null
+      }
+    ]
+  },
+  "categorized": {
+    "by_submitted_year": {
+      "2023": [
+        "12162664",
+        "5579140"
+      ]
+    },
+    "by_student_year": {
+      "Junior": [
+        "12162664"
+      ],
+      "Senior": [
+        "5579140"
+      ]
+    },
+    "by_major": {
+      "MIS": [
+        "12162664"
+      ],
+      "FIN": [
+        "5579140"
+      ]
+    }
+  },
+  "all_reviews": [
+    {
+      "id": "12162664",
+      "professor": "Ken Gyure",
+      "course": "OSCM 477",
+      "submitted_at": "2023-12-18T18:31:58",
+      "submitted_year": 2023,
+      "review_age": "2y",
+      "student_year": "Junior",
+      "student_major": "MIS",
+      "review_text": "What a joke. This guy couldn't make it in the real world even at the corporate wasteland Raytheon, so now he teaches. Don't bother asking any questions or you'll be given completely wrong, BS answers.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5579140",
+      "professor": "Ken Gyure",
+      "course": "OSCM 477",
+      "submitted_at": "2023-04-26T01:37:52",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Senior",
+      "student_major": "FIN",
+      "review_text": "A good professor, class assignments are straightforward, but there is some added complexity on tests. Slide heavy class.",
+      "votes": 0,
+      "replying_to_id": null
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "school": "arizona",
+    "course_code": "ACCT 400E",
+    "course_url": "https://www.coursicle.com/arizona/courses/ACCT/400E/",
+    "scraped_at": "2026-04-25T15:55:44",
+    "professors_found": [
+      "Alison Mackie",
+      "Karen Otto",
+      "Rob Stussie",
+      "Lin Cheng",
+      "Robert Stussie"
+    ],
+    "review_count": 0
+  },
+  "by_professor": {
+    "Alison Mackie": [],
+    "Karen Otto": [],
+    "Rob Stussie": [],
+    "Lin Cheng": [],
+    "Robert Stussie": []
+  },
+  "categorized": {
+    "by_submitted_year": {},
+    "by_student_year": {},
+    "by_major": {}
+  },
+  "all_reviews": []
+}

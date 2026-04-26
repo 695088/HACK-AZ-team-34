@@ -1,0 +1,403 @@
+{
+  "meta": {
+    "school": "arizona",
+    "course_code": "ACCT 400B",
+    "course_url": "https://www.coursicle.com/arizona/courses/ACCT/400B/",
+    "scraped_at": "2026-04-25T15:55:42",
+    "professors_found": [
+      "Jiewei Yu",
+      "James Brushwood",
+      "Shyam Sunder",
+      "Jayanthi Sunder",
+      "Rob Stussie",
+      "Preeti Choudhary"
+    ],
+    "review_count": 12
+  },
+  "by_professor": {
+    "Jiewei Yu": [],
+    "James Brushwood": [
+      {
+        "id": "12597881",
+        "professor": "James Brushwood",
+        "course": "ACCT 400B",
+        "submitted_at": "2024-12-15T23:58:34",
+        "submitted_year": 2024,
+        "review_age": "1y",
+        "student_year": "Junior",
+        "student_major": "ACCT",
+        "review_text": "You need to understand stakeholder incentives and the impact of accounting entries. Be an independent learner, take good in-class notes, and grasp what's taught in class. Practice problems until you master them independently—this is excellent exam prep, alongside reviewing his slides. The research HWs and Excel project are easy points. Do them.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "12597884",
+        "professor": "James Brushwood",
+        "course": "ACCT 400B",
+        "submitted_at": "2024-05-18T18:21:09",
+        "submitted_year": 2024,
+        "review_age": "1y",
+        "student_year": "Junior",
+        "student_major": "ACCT",
+        "review_text": "This class is very similar to Katie Maxwell's 400A class in terms of difficulty, so if you did well in that class you should be just fine in James' class. The exams are hard to study for bc there are not many practice problems, and the exams are mostly conceptual written response. James is very kind and funnt so his lectures are tolerable.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "12597887",
+        "professor": "James Brushwood",
+        "course": "ACCT 400B",
+        "submitted_at": "2024-05-18T00:00:47",
+        "submitted_year": 2024,
+        "review_age": "1y",
+        "student_year": "Junior",
+        "student_major": "ACCT",
+        "review_text": "Not a lot of practice homework or examples, which made exams difficult. Exams are a lot of \"why\" instead of \"how\", and mostly written response. You'll need to study the impacts of accounting decisions on stakeholders a LOT. Go to every class and you should be fine. Cool guy, but I would definitely have preferred more practice.",
+        "votes": 0,
+        "replying_to_id": null
+      }
+    ],
+    "Shyam Sunder": [],
+    "Jayanthi Sunder": [
+      {
+        "id": "5612498",
+        "professor": "Jayanthi Sunder",
+        "course": "ACCT 400B",
+        "submitted_at": "2023-04-25T22:55:42",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Senior",
+        "student_major": "ACCT",
+        "review_text": "She really explains what topics will be on the exams and goes into detail for everything covered but will tell you if its important for exam/quizzes",
+        "votes": 0,
+        "replying_to_id": null
+      }
+    ],
+    "Rob Stussie": [
+      {
+        "id": "12598167",
+        "professor": "Rob Stussie",
+        "course": "ACCT 400B",
+        "submitted_at": "2023-04-25T22:55:42",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Junior",
+        "student_major": "ACCT",
+        "review_text": "I had Rob in 200, and he was the person who made me want to be an accounting major! I was so grateful to have him again for 400B, perfect transition after Katie in 400A. The class is definitely not easy, but just have some good study buddies and get the work/studying done.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "12598172",
+        "professor": "Rob Stussie",
+        "course": "ACCT 400B",
+        "submitted_at": "2023-04-25T22:55:42",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Junior",
+        "student_major": "ACCT",
+        "review_text": "Rob's a nice guy and did a great job transitioning a hard class to online due to COVID. I enjoyed his clarity explaining challenging topics and his dry sense of humor. He has also been a great mentor to me ever since I had him in acct 200. Highly recommend!",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "12598175",
+        "professor": "Rob Stussie",
+        "course": "ACCT 400B",
+        "submitted_at": "2023-04-25T22:55:42",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Junior",
+        "student_major": "ACCT",
+        "review_text": "I had heard really great things about Rob and was excited when I found out he was teaching ACCT 400B. Unfortunately, I was quite disappointed to find that he is just okay at best. He is known for being well liked in ACCT 200 so maybe is better at the lower levels? I do agree with the other reviews that he is quite arrogant at times.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "12598176",
+        "professor": "Rob Stussie",
+        "course": "ACCT 400B",
+        "submitted_at": "2023-04-25T22:55:42",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Junior",
+        "student_major": "ACCT",
+        "review_text": "Rob is great at dumbing down the concepts and explaining how to do something. Only thing I hated was the daily quizzes which got annoying after the 1st test.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "12598177",
+        "professor": "Rob Stussie",
+        "course": "ACCT 400B",
+        "submitted_at": "2023-04-25T22:55:42",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Sophomore",
+        "student_major": "ACCT",
+        "review_text": "Rob is honestly overrated. This is my second time taking a class with him and while he acts friendly, he is really just full of himself and kind of rude. Avoid him if you can!",
+        "votes": 0,
+        "replying_to_id": null
+      }
+    ],
+    "Preeti Choudhary": [
+      {
+        "id": "5612702",
+        "professor": "Preeti Choudhary",
+        "course": "ACCT 400B",
+        "submitted_at": "2023-04-25T22:55:42",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Senior",
+        "student_major": "ACCT",
+        "review_text": "If you have the chance to take this course with another professor, by all means take it. The course work was difficult with so much content to digest in a short period of time; however, she made the course more difficult with ridiculous clicker quizzes, little extra credit, and test that is ridiculous.",
+        "votes": 1,
+        "replying_to_id": null
+      },
+      {
+        "id": "5612711",
+        "professor": "Preeti Choudhary",
+        "course": "ACCT 400B",
+        "submitted_at": "2023-04-25T22:55:42",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Senior",
+        "student_major": "FIN",
+        "review_text": "Professor consistently made mistakes on lecture slides, homework assignments, etc. Became easily frustrated and did not seem to have an effective teaching style. Many in the class received a C.",
+        "votes": 1,
+        "replying_to_id": null
+      },
+      {
+        "id": "5612698",
+        "professor": "Preeti Choudhary",
+        "course": "ACCT 400B",
+        "submitted_at": "2023-04-25T22:55:42",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Senior",
+        "student_major": "MKTG",
+        "review_text": "What made the class most difficult was that she had errors in just about every other slide in EACH of her chapter ppts. I'm the type of person who needs to teach myself from the slides at home, and she made that pretty much impossible. Every class she gives clicker questions on uncovered material & its graded for correctness. I could say more...",
+        "votes": 0,
+        "replying_to_id": null
+      }
+    ]
+  },
+  "categorized": {
+    "by_submitted_year": {
+      "2024": [
+        "12597881",
+        "12597884",
+        "12597887"
+      ],
+      "2023": [
+        "5612498",
+        "12598167",
+        "12598172",
+        "12598175",
+        "12598176",
+        "12598177",
+        "5612702",
+        "5612711",
+        "5612698"
+      ]
+    },
+    "by_student_year": {
+      "Junior": [
+        "12597881",
+        "12597884",
+        "12597887",
+        "12598167",
+        "12598172",
+        "12598175",
+        "12598176"
+      ],
+      "Senior": [
+        "5612498",
+        "5612702",
+        "5612711",
+        "5612698"
+      ],
+      "Sophomore": [
+        "12598177"
+      ]
+    },
+    "by_major": {
+      "ACCT": [
+        "12597881",
+        "12597884",
+        "12597887",
+        "5612498",
+        "12598167",
+        "12598172",
+        "12598175",
+        "12598176",
+        "12598177",
+        "5612702"
+      ],
+      "FIN": [
+        "5612711"
+      ],
+      "MKTG": [
+        "5612698"
+      ]
+    }
+  },
+  "all_reviews": [
+    {
+      "id": "12597881",
+      "professor": "James Brushwood",
+      "course": "ACCT 400B",
+      "submitted_at": "2024-12-15T23:58:34",
+      "submitted_year": 2024,
+      "review_age": "1y",
+      "student_year": "Junior",
+      "student_major": "ACCT",
+      "review_text": "You need to understand stakeholder incentives and the impact of accounting entries. Be an independent learner, take good in-class notes, and grasp what's taught in class. Practice problems until you master them independently—this is excellent exam prep, alongside reviewing his slides. The research HWs and Excel project are easy points. Do them.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "12597884",
+      "professor": "James Brushwood",
+      "course": "ACCT 400B",
+      "submitted_at": "2024-05-18T18:21:09",
+      "submitted_year": 2024,
+      "review_age": "1y",
+      "student_year": "Junior",
+      "student_major": "ACCT",
+      "review_text": "This class is very similar to Katie Maxwell's 400A class in terms of difficulty, so if you did well in that class you should be just fine in James' class. The exams are hard to study for bc there are not many practice problems, and the exams are mostly conceptual written response. James is very kind and funnt so his lectures are tolerable.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "12597887",
+      "professor": "James Brushwood",
+      "course": "ACCT 400B",
+      "submitted_at": "2024-05-18T00:00:47",
+      "submitted_year": 2024,
+      "review_age": "1y",
+      "student_year": "Junior",
+      "student_major": "ACCT",
+      "review_text": "Not a lot of practice homework or examples, which made exams difficult. Exams are a lot of \"why\" instead of \"how\", and mostly written response. You'll need to study the impacts of accounting decisions on stakeholders a LOT. Go to every class and you should be fine. Cool guy, but I would definitely have preferred more practice.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5612498",
+      "professor": "Jayanthi Sunder",
+      "course": "ACCT 400B",
+      "submitted_at": "2023-04-25T22:55:42",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Senior",
+      "student_major": "ACCT",
+      "review_text": "She really explains what topics will be on the exams and goes into detail for everything covered but will tell you if its important for exam/quizzes",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "12598167",
+      "professor": "Rob Stussie",
+      "course": "ACCT 400B",
+      "submitted_at": "2023-04-25T22:55:42",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Junior",
+      "student_major": "ACCT",
+      "review_text": "I had Rob in 200, and he was the person who made me want to be an accounting major! I was so grateful to have him again for 400B, perfect transition after Katie in 400A. The class is definitely not easy, but just have some good study buddies and get the work/studying done.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "12598172",
+      "professor": "Rob Stussie",
+      "course": "ACCT 400B",
+      "submitted_at": "2023-04-25T22:55:42",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Junior",
+      "student_major": "ACCT",
+      "review_text": "Rob's a nice guy and did a great job transitioning a hard class to online due to COVID. I enjoyed his clarity explaining challenging topics and his dry sense of humor. He has also been a great mentor to me ever since I had him in acct 200. Highly recommend!",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "12598175",
+      "professor": "Rob Stussie",
+      "course": "ACCT 400B",
+      "submitted_at": "2023-04-25T22:55:42",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Junior",
+      "student_major": "ACCT",
+      "review_text": "I had heard really great things about Rob and was excited when I found out he was teaching ACCT 400B. Unfortunately, I was quite disappointed to find that he is just okay at best. He is known for being well liked in ACCT 200 so maybe is better at the lower levels? I do agree with the other reviews that he is quite arrogant at times.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "12598176",
+      "professor": "Rob Stussie",
+      "course": "ACCT 400B",
+      "submitted_at": "2023-04-25T22:55:42",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Junior",
+      "student_major": "ACCT",
+      "review_text": "Rob is great at dumbing down the concepts and explaining how to do something. Only thing I hated was the daily quizzes which got annoying after the 1st test.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "12598177",
+      "professor": "Rob Stussie",
+      "course": "ACCT 400B",
+      "submitted_at": "2023-04-25T22:55:42",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Sophomore",
+      "student_major": "ACCT",
+      "review_text": "Rob is honestly overrated. This is my second time taking a class with him and while he acts friendly, he is really just full of himself and kind of rude. Avoid him if you can!",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5612702",
+      "professor": "Preeti Choudhary",
+      "course": "ACCT 400B",
+      "submitted_at": "2023-04-25T22:55:42",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Senior",
+      "student_major": "ACCT",
+      "review_text": "If you have the chance to take this course with another professor, by all means take it. The course work was difficult with so much content to digest in a short period of time; however, she made the course more difficult with ridiculous clicker quizzes, little extra credit, and test that is ridiculous.",
+      "votes": 1,
+      "replying_to_id": null
+    },
+    {
+      "id": "5612711",
+      "professor": "Preeti Choudhary",
+      "course": "ACCT 400B",
+      "submitted_at": "2023-04-25T22:55:42",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Senior",
+      "student_major": "FIN",
+      "review_text": "Professor consistently made mistakes on lecture slides, homework assignments, etc. Became easily frustrated and did not seem to have an effective teaching style. Many in the class received a C.",
+      "votes": 1,
+      "replying_to_id": null
+    },
+    {
+      "id": "5612698",
+      "professor": "Preeti Choudhary",
+      "course": "ACCT 400B",
+      "submitted_at": "2023-04-25T22:55:42",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Senior",
+      "student_major": "MKTG",
+      "review_text": "What made the class most difficult was that she had errors in just about every other slide in EACH of her chapter ppts. I'm the type of person who needs to teach myself from the slides at home, and she made that pretty much impossible. Every class she gives clicker questions on uncovered material & its graded for correctness. I could say more...",
+      "votes": 0,
+      "replying_to_id": null
+    }
+  ]
+}

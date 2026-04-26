@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "school": "arizona",
+    "course_code": "OSCM 471",
+    "course_url": "https://www.coursicle.com/arizona/courses/OSCM/471/",
+    "scraped_at": "2026-04-25T18:35:36",
+    "professors_found": [
+      "Seokjun Youn"
+    ],
+    "review_count": 0
+  },
+  "by_professor": {
+    "Seokjun Youn": []
+  },
+  "categorized": {
+    "by_submitted_year": {},
+    "by_student_year": {},
+    "by_major": {}
+  },
+  "all_reviews": []
+}

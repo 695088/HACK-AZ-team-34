@@ -1,0 +1,547 @@
+{
+  "meta": {
+    "school": "arizona",
+    "course_code": "ACCT 310",
+    "course_url": "https://www.coursicle.com/arizona/courses/ACCT/310/",
+    "scraped_at": "2026-04-25T15:55:40",
+    "professors_found": [
+      "Max Hewitt",
+      "Jeremy Douthit",
+      "Alison Mackie",
+      "Jeffrey Schatzberg"
+    ],
+    "review_count": 17
+  },
+  "by_professor": {
+    "Max Hewitt": [
+      {
+        "id": "12597940",
+        "professor": "Max Hewitt",
+        "course": "ACCT 310",
+        "submitted_at": "2026-01-15T22:58:48",
+        "submitted_year": 2026,
+        "review_age": "3mo",
+        "student_year": "Junior",
+        "student_major": "ACCT",
+        "review_text": "Max is the best, most caring professor I've ever had. This course is very difficult, but it's definitely manageable with Max as your professor. He cares about all of his students and is willing to help in any way he can. Definitely go to office hours often and study a lot for exams.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "12597944",
+        "professor": "Max Hewitt",
+        "course": "ACCT 310",
+        "submitted_at": "2025-12-16T22:15:00",
+        "submitted_year": 2025,
+        "review_age": "4mo",
+        "student_year": "Junior",
+        "student_major": "ACCT",
+        "review_text": "Max has entertaining lectures and gives great feedback following your quizzes and exams. Appreciated all the office hours he held and how quick he got grades back to you. He is a very caring professor that is always happy to help you if needed. The exams are challenging and a lot more difficult that the practice exams but he gives partial credit.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "12597945",
+        "professor": "Max Hewitt",
+        "course": "ACCT 310",
+        "submitted_at": "2025-12-15T22:08:37",
+        "submitted_year": 2025,
+        "review_age": "4mo",
+        "student_year": "Junior",
+        "student_major": "ACCT",
+        "review_text": "Don't get me wrong he is a great person super nice and offers a lot of support but he makes the quizzes and test way more challenging than they need to be which gets so frustrating. You need to know the stuff like the back of your hand because there will always be some kind of trick once it comes to the tests which is annoying.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "5612540",
+        "professor": "Max Hewitt",
+        "course": "ACCT 310",
+        "submitted_at": "2023-04-25T22:55:40",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Junior",
+        "student_major": "MKTG",
+        "review_text": "One of the best professors in Accounting department ever! He cares about everyone and gives the useful feedback. The most impressive thing that Max did is he creates quiz and exam problems by himself...",
+        "votes": 2,
+        "replying_to_id": null
+      },
+      {
+        "id": "12597946",
+        "professor": "Max Hewitt",
+        "course": "ACCT 310",
+        "submitted_at": "2025-03-06T21:14:10",
+        "submitted_year": 2025,
+        "review_age": "1y",
+        "student_year": "Junior",
+        "student_major": "ACCT",
+        "review_text": "Max is an amazing professor who is not only challenging but also fair. He makes every lecture relevant and entertaining with his nearly limitless energy. Max bends over backwords for his students and even when his wife is giving BIRTH to his CHILD he didn't stop grading assignments in a timely manner.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "12597949",
+        "professor": "Max Hewitt",
+        "course": "ACCT 310",
+        "submitted_at": "2025-01-08T01:09:38",
+        "submitted_year": 2025,
+        "review_age": "1y",
+        "student_year": "Junior",
+        "student_major": "ACCT",
+        "review_text": "So kind! His level of care for students genuinely impressed me. Good lecturer, but the class was challenging. There are so many resources and you can rewatch lectures. Practice and understand the process, don't memorize problems, as his exams aren't the same as the practices! Will be the same content, but questions won't be asked the same way.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "12597951",
+        "professor": "Max Hewitt",
+        "course": "ACCT 310",
+        "submitted_at": "2024-12-15T21:40:06",
+        "submitted_year": 2024,
+        "review_age": "1y",
+        "student_year": "Junior",
+        "student_major": "ACCT",
+        "review_text": "He's one of the top 1% of professors. He provides individualized feedback, holds many office hours, and offers helpful worksheets. To prepare for quizzes and exams, complete the practice ones on D2L until you can do them perfectly on your own and review slides. Understanding practice problems and key concepts is key to success.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "12597954",
+        "professor": "Max Hewitt",
+        "course": "ACCT 310",
+        "submitted_at": "2024-10-09T20:44:58",
+        "submitted_year": 2024,
+        "review_age": "1y",
+        "student_year": "Junior",
+        "student_major": "ACCT",
+        "review_text": "Max is the BEST professor you will take! He is so energetic and truly passionate about accounting... 10/10.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "12597958",
+        "professor": "Max Hewitt",
+        "course": "ACCT 310",
+        "submitted_at": "2024-08-27T06:14:44",
+        "submitted_year": 2024,
+        "review_age": "1y",
+        "student_year": "Junior",
+        "student_major": "ACCT",
+        "review_text": "Max is one of the best professors you will meet during your academic career. Max is genuinely the reason I made it through the last few weeks of my undergraduate. Max is more than a professor he cares about you in and outside of the classroom. Thank you Max for everything.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "5612533",
+        "professor": "Max Hewitt",
+        "course": "ACCT 310",
+        "submitted_at": "2023-04-25T22:55:40",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Senior",
+        "student_major": "BCOM",
+        "review_text": "If there was ever a time I truly believed that angels walked among us, it was taking this course. Max is so passionate, not just by his teaching, but moreso by his students. He truly believes in every person that walks through his doors and would probably take a bullet for one if it came down to it. I feel lucky to have had him as a professor.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "5612537",
+        "professor": "Max Hewitt",
+        "course": "ACCT 310",
+        "submitted_at": "2023-04-25T22:55:40",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Junior",
+        "student_major": "MKTG",
+        "review_text": "Really cares about his students. Ver;y enthusiastic and genuine. The material is difficult and so are the quizzes and exams, but he is very lenient about grading and partial credit. He also grades on a curve. Attendance counts for participation points but isn't 100% mandatory.",
+        "votes": 0,
+        "replying_to_id": null
+      }
+    ],
+    "Jeremy Douthit": [],
+    "Alison Mackie": [
+      {
+        "id": "12597847",
+        "professor": "Alison Mackie",
+        "course": "ACCT 310",
+        "submitted_at": "2024-12-06T23:25:45",
+        "submitted_year": 2024,
+        "review_age": "1y",
+        "student_year": "Junior",
+        "student_major": "ACCT",
+        "review_text": "exams are nothing like exam reviews. all are multiple questions which is pretty hard. overall good prof",
+        "votes": 2,
+        "replying_to_id": null
+      },
+      {
+        "id": "12597853",
+        "professor": "Alison Mackie",
+        "course": "ACCT 310",
+        "submitted_at": "2024-04-29T22:23:02",
+        "submitted_year": 2024,
+        "review_age": "1y",
+        "student_year": "Junior",
+        "student_major": "ACCT",
+        "review_text": "Cost Accounting is difficult. This is the best online instructor I have had and not sure why she has such a low reviews. She tells you what you need to study on. You just have to put in the work. Lots of video examples of problems in excel. 1 of 3 hard exams but allowed curve from all students results + past results.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "5612480",
+        "professor": "Alison Mackie",
+        "course": "ACCT 310",
+        "submitted_at": "2023-10-16T19:13:12",
+        "submitted_year": 2023,
+        "review_age": "2y",
+        "student_year": "Junior",
+        "student_major": "UNIV",
+        "review_text": "Alison is a great professors in terms of her personality. She is passionate about her teaching and very supportive. Yet, her lectures are sometimes confusing due to her unclear instruction. Overall, since she just recently became the official lecturer at Eller, it's acceptable at this point that she still has some areas for improvements.",
+        "votes": -1,
+        "replying_to_id": null
+      }
+    ],
+    "Jeffrey Schatzberg": [
+      {
+        "id": "5612565",
+        "professor": "Jeffrey Schatzberg",
+        "course": "ACCT 310",
+        "submitted_at": "2023-04-25T22:55:40",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Junior",
+        "student_major": "MKTG",
+        "review_text": "Jeff is such a nice guy and Im pretty sure this is his first year back teaching undergrads, which is probably why he assumes were all grad students and know exactly whats going on at all times. His teaching style is horrible - theres hardly any structure to his lectures. Study for tests using the old ones he provides and teach yourself.",
+        "votes": 1,
+        "replying_to_id": null
+      },
+      {
+        "id": "5612550",
+        "professor": "Jeffrey Schatzberg",
+        "course": "ACCT 310",
+        "submitted_at": "2023-04-25T22:55:40",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Junior",
+        "student_major": "BCOM",
+        "review_text": "He is such a hard teacher, you don't know what grade you will get until after the final. Grades are determined how you compare to your peers. The mean on the final was 50% and midterm percentage was about the same. The only grades are the cases and exams. Cases were essentially free points, we made errors and got 100% on them but this doesn't help",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "5612559",
+        "professor": "Jeffrey Schatzberg",
+        "course": "ACCT 310",
+        "submitted_at": "2023-04-25T22:55:40",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Junior",
+        "student_major": "MKTG",
+        "review_text": "Jeff is a very nice guy but he is not a very good professor. There are no structure to his lectures and he grades you based off of 7 assignments and 3 exams, but then doesn't input grades until the very end. Good news is that everyone passes this class no matter what. He puts a fat curve at the end. Average scores for his exams were in the mid 50s",
+        "votes": 0,
+        "replying_to_id": null
+      }
+    ]
+  },
+  "categorized": {
+    "by_submitted_year": {
+      "2026": [
+        "12597940"
+      ],
+      "2025": [
+        "12597944",
+        "12597945",
+        "12597946",
+        "12597949"
+      ],
+      "2023": [
+        "5612540",
+        "5612533",
+        "5612537",
+        "5612480",
+        "5612565",
+        "5612550",
+        "5612559"
+      ],
+      "2024": [
+        "12597951",
+        "12597954",
+        "12597958",
+        "12597847",
+        "12597853"
+      ]
+    },
+    "by_student_year": {
+      "Junior": [
+        "12597940",
+        "12597944",
+        "12597945",
+        "5612540",
+        "12597946",
+        "12597949",
+        "12597951",
+        "12597954",
+        "12597958",
+        "5612537",
+        "12597847",
+        "12597853",
+        "5612480",
+        "5612565",
+        "5612550",
+        "5612559"
+      ],
+      "Senior": [
+        "5612533"
+      ]
+    },
+    "by_major": {
+      "ACCT": [
+        "12597940",
+        "12597944",
+        "12597945",
+        "12597946",
+        "12597949",
+        "12597951",
+        "12597954",
+        "12597958",
+        "12597847",
+        "12597853"
+      ],
+      "MKTG": [
+        "5612540",
+        "5612537",
+        "5612565",
+        "5612559"
+      ],
+      "BCOM": [
+        "5612533",
+        "5612550"
+      ],
+      "UNIV": [
+        "5612480"
+      ]
+    }
+  },
+  "all_reviews": [
+    {
+      "id": "12597940",
+      "professor": "Max Hewitt",
+      "course": "ACCT 310",
+      "submitted_at": "2026-01-15T22:58:48",
+      "submitted_year": 2026,
+      "review_age": "3mo",
+      "student_year": "Junior",
+      "student_major": "ACCT",
+      "review_text": "Max is the best, most caring professor I've ever had. This course is very difficult, but it's definitely manageable with Max as your professor. He cares about all of his students and is willing to help in any way he can. Definitely go to office hours often and study a lot for exams.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "12597944",
+      "professor": "Max Hewitt",
+      "course": "ACCT 310",
+      "submitted_at": "2025-12-16T22:15:00",
+      "submitted_year": 2025,
+      "review_age": "4mo",
+      "student_year": "Junior",
+      "student_major": "ACCT",
+      "review_text": "Max has entertaining lectures and gives great feedback following your quizzes and exams. Appreciated all the office hours he held and how quick he got grades back to you. He is a very caring professor that is always happy to help you if needed. The exams are challenging and a lot more difficult that the practice exams but he gives partial credit.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "12597945",
+      "professor": "Max Hewitt",
+      "course": "ACCT 310",
+      "submitted_at": "2025-12-15T22:08:37",
+      "submitted_year": 2025,
+      "review_age": "4mo",
+      "student_year": "Junior",
+      "student_major": "ACCT",
+      "review_text": "Don't get me wrong he is a great person super nice and offers a lot of support but he makes the quizzes and test way more challenging than they need to be which gets so frustrating. You need to know the stuff like the back of your hand because there will always be some kind of trick once it comes to the tests which is annoying.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5612540",
+      "professor": "Max Hewitt",
+      "course": "ACCT 310",
+      "submitted_at": "2023-04-25T22:55:40",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Junior",
+      "student_major": "MKTG",
+      "review_text": "One of the best professors in Accounting department ever! He cares about everyone and gives the useful feedback. The most impressive thing that Max did is he creates quiz and exam problems by himself...",
+      "votes": 2,
+      "replying_to_id": null
+    },
+    {
+      "id": "12597946",
+      "professor": "Max Hewitt",
+      "course": "ACCT 310",
+      "submitted_at": "2025-03-06T21:14:10",
+      "submitted_year": 2025,
+      "review_age": "1y",
+      "student_year": "Junior",
+      "student_major": "ACCT",
+      "review_text": "Max is an amazing professor who is not only challenging but also fair. He makes every lecture relevant and entertaining with his nearly limitless energy. Max bends over backwords for his students and even when his wife is giving BIRTH to his CHILD he didn't stop grading assignments in a timely manner.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "12597949",
+      "professor": "Max Hewitt",
+      "course": "ACCT 310",
+      "submitted_at": "2025-01-08T01:09:38",
+      "submitted_year": 2025,
+      "review_age": "1y",
+      "student_year": "Junior",
+      "student_major": "ACCT",
+      "review_text": "So kind! His level of care for students genuinely impressed me. Good lecturer, but the class was challenging. There are so many resources and you can rewatch lectures. Practice and understand the process, don't memorize problems, as his exams aren't the same as the practices! Will be the same content, but questions won't be asked the same way.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "12597951",
+      "professor": "Max Hewitt",
+      "course": "ACCT 310",
+      "submitted_at": "2024-12-15T21:40:06",
+      "submitted_year": 2024,
+      "review_age": "1y",
+      "student_year": "Junior",
+      "student_major": "ACCT",
+      "review_text": "He's one of the top 1% of professors. He provides individualized feedback, holds many office hours, and offers helpful worksheets. To prepare for quizzes and exams, complete the practice ones on D2L until you can do them perfectly on your own and review slides. Understanding practice problems and key concepts is key to success.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "12597954",
+      "professor": "Max Hewitt",
+      "course": "ACCT 310",
+      "submitted_at": "2024-10-09T20:44:58",
+      "submitted_year": 2024,
+      "review_age": "1y",
+      "student_year": "Junior",
+      "student_major": "ACCT",
+      "review_text": "Max is the BEST professor you will take! He is so energetic and truly passionate about accounting... 10/10.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "12597958",
+      "professor": "Max Hewitt",
+      "course": "ACCT 310",
+      "submitted_at": "2024-08-27T06:14:44",
+      "submitted_year": 2024,
+      "review_age": "1y",
+      "student_year": "Junior",
+      "student_major": "ACCT",
+      "review_text": "Max is one of the best professors you will meet during your academic career. Max is genuinely the reason I made it through the last few weeks of my undergraduate. Max is more than a professor he cares about you in and outside of the classroom. Thank you Max for everything.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5612533",
+      "professor": "Max Hewitt",
+      "course": "ACCT 310",
+      "submitted_at": "2023-04-25T22:55:40",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Senior",
+      "student_major": "BCOM",
+      "review_text": "If there was ever a time I truly believed that angels walked among us, it was taking this course. Max is so passionate, not just by his teaching, but moreso by his students. He truly believes in every person that walks through his doors and would probably take a bullet for one if it came down to it. I feel lucky to have had him as a professor.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5612537",
+      "professor": "Max Hewitt",
+      "course": "ACCT 310",
+      "submitted_at": "2023-04-25T22:55:40",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Junior",
+      "student_major": "MKTG",
+      "review_text": "Really cares about his students. Ver;y enthusiastic and genuine. The material is difficult and so are the quizzes and exams, but he is very lenient about grading and partial credit. He also grades on a curve. Attendance counts for participation points but isn't 100% mandatory.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "12597847",
+      "professor": "Alison Mackie",
+      "course": "ACCT 310",
+      "submitted_at": "2024-12-06T23:25:45",
+      "submitted_year": 2024,
+      "review_age": "1y",
+      "student_year": "Junior",
+      "student_major": "ACCT",
+      "review_text": "exams are nothing like exam reviews. all are multiple questions which is pretty hard. overall good prof",
+      "votes": 2,
+      "replying_to_id": null
+    },
+    {
+      "id": "12597853",
+      "professor": "Alison Mackie",
+      "course": "ACCT 310",
+      "submitted_at": "2024-04-29T22:23:02",
+      "submitted_year": 2024,
+      "review_age": "1y",
+      "student_year": "Junior",
+      "student_major": "ACCT",
+      "review_text": "Cost Accounting is difficult. This is the best online instructor I have had and not sure why she has such a low reviews. She tells you what you need to study on. You just have to put in the work. Lots of video examples of problems in excel. 1 of 3 hard exams but allowed curve from all students results + past results.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5612480",
+      "professor": "Alison Mackie",
+      "course": "ACCT 310",
+      "submitted_at": "2023-10-16T19:13:12",
+      "submitted_year": 2023,
+      "review_age": "2y",
+      "student_year": "Junior",
+      "student_major": "UNIV",
+      "review_text": "Alison is a great professors in terms of her personality. She is passionate about her teaching and very supportive. Yet, her lectures are sometimes confusing due to her unclear instruction. Overall, since she just recently became the official lecturer at Eller, it's acceptable at this point that she still has some areas for improvements.",
+      "votes": -1,
+      "replying_to_id": null
+    },
+    {
+      "id": "5612565",
+      "professor": "Jeffrey Schatzberg",
+      "course": "ACCT 310",
+      "submitted_at": "2023-04-25T22:55:40",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Junior",
+      "student_major": "MKTG",
+      "review_text": "Jeff is such a nice guy and Im pretty sure this is his first year back teaching undergrads, which is probably why he assumes were all grad students and know exactly whats going on at all times. His teaching style is horrible - theres hardly any structure to his lectures. Study for tests using the old ones he provides and teach yourself.",
+      "votes": 1,
+      "replying_to_id": null
+    },
+    {
+      "id": "5612550",
+      "professor": "Jeffrey Schatzberg",
+      "course": "ACCT 310",
+      "submitted_at": "2023-04-25T22:55:40",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Junior",
+      "student_major": "BCOM",
+      "review_text": "He is such a hard teacher, you don't know what grade you will get until after the final. Grades are determined how you compare to your peers. The mean on the final was 50% and midterm percentage was about the same. The only grades are the cases and exams. Cases were essentially free points, we made errors and got 100% on them but this doesn't help",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5612559",
+      "professor": "Jeffrey Schatzberg",
+      "course": "ACCT 310",
+      "submitted_at": "2023-04-25T22:55:40",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Junior",
+      "student_major": "MKTG",
+      "review_text": "Jeff is a very nice guy but he is not a very good professor. There are no structure to his lectures and he grades you based off of 7 assignments and 3 exams, but then doesn't input grades until the very end. Good news is that everyone passes this class no matter what. He puts a fat curve at the end. Average scores for his exams were in the mid 50s",
+      "votes": 0,
+      "replying_to_id": null
+    }
+  ]
+}
