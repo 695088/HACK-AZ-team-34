@@ -39,7 +39,8 @@ The system first removes courses that do not fit required constraints, such as:
 
 Remaining course sections are scored across multiple dimensions:
 
-* Foundational / academic fit/ Personal interests
+* Foundational / academic fit
+* Personal interests
 * Difficulty preference
 * Workload preference
 * Schedule compatibility
@@ -52,7 +53,7 @@ Remaining course sections are scored across multiple dimensions:
 Each recommendation receives a transparent score from **0 to 100** with reasoning such as:
 
 * Why this course matches your goals
-  n- Expected workload
+* Expected workload
 * Instructor reputation
 * Scheduling advantages
 * Potential concerns to consider
@@ -69,16 +70,6 @@ Each recommendation receives a transparent score from **0 to 100** with reasonin
 ---
 
 ## How We Built It
-
-### Frontend
-
-Built using the Lovable platform with:
-
-* Vite
-* React 18
-* TypeScript
-* Tailwind CSS
-* shadcn/ui components
 
 ### Data Pipeline
 
@@ -100,7 +91,7 @@ A custom rules + scoring system designed to rank sections intelligently based on
 
 * Node.js 18+ (20 LTS recommended)
 * npm or bun
-* Python 3.9+ (for dataset rebuilds)
+* Python 3.11+ (for dataset rebuilds)
 
 ---
 
