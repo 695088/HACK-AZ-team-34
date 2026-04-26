@@ -39,8 +39,7 @@ The system first removes courses that do not fit required constraints, such as:
 
 Remaining course sections are scored across multiple dimensions:
 
-* Foundational / academic fit
-  n- Personal interests
+* Foundational / academic fit/ Personal interests
 * Difficulty preference
 * Workload preference
 * Schedule compatibility
