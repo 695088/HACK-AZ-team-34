@@ -1,0 +1,306 @@
+{
+  "ACCT 210": [
+    {
+      "professor": "Heather Altman",
+      "section": "001",
+      "timing": "Morning",
+      "format": "In-person",
+      "length": "90 min",
+      "days": ["Tuesday"],
+      "assignmentFrequency": "Medium",
+      "difficulty": "Medium",
+      "professorLeniency": "Balanced",
+      "finalExam": "Exam-based",
+      "researchOriented": "No",
+      "courseName": "Intro to Managerial Accounting"
+    }
+  ],
+  "ACCT 250": [
+    {
+      "professor": "Sherri Silverberg",
+      "section": "002",
+      "timing": "Afternoon",
+      "format": "Online",
+      "length": "45 min",
+      "days": ["Tuesday", "Thursday"],
+      "assignmentFrequency": "High",
+      "difficulty": "High",
+      "professorLeniency": "Strict",
+      "finalExam": "Exam-based",
+      "researchOriented": "No",
+      "courseName": "Accounting Principles"
+    }
+  ],
+  "ACCT 310": [
+    {
+      "professor": "Max Hewitt",
+      "section": "001",
+      "timing": "Morning",
+      "format": "In-person",
+      "length": "90 min",
+      "days": ["Monday"],
+      "assignmentFrequency": "High",
+      "difficulty": "High",
+      "professorLeniency": "Strict",
+      "finalExam": "Exam-based",
+      "researchOriented": "Yes",
+      "courseName": "Intermediate Accounting I"
+    }
+  ],
+  "ACCT 400a": [
+    {
+      "professor": "Katie Maxwell",
+      "section": "001",
+      "timing": "Afternoon",
+      "format": "Online",
+      "length": "45 min",
+      "days": ["Monday", "Wednesday"],
+      "assignmentFrequency": "Medium",
+      "difficulty": "High",
+      "professorLeniency": "Balanced",
+      "finalExam": "Exam-based",
+      "researchOriented": "Yes",
+      "courseName": "Advanced Financial Accounting A"
+    }
+  ],
+  "ACCT 420": [
+    {
+      "professor": "Jeremy Douthit",
+      "section": "001",
+      "timing": "Morning",
+      "format": "In-person",
+      "length": "90 min",
+      "days": ["Wednesday"],
+      "assignmentFrequency": "Medium",
+      "difficulty": "Medium",
+      "professorLeniency": "Balanced",
+      "finalExam": "Project-based",
+      "researchOriented": "No",
+      "courseName": "Auditing"
+    }
+  ],
+  "ACCT 430": [
+    {
+      "professor": "Ann Mcgrath",
+      "section": "001",
+      "timing": "Afternoon",
+      "format": "Online",
+      "length": "45 min",
+      "days": ["Tuesday", "Thursday"],
+      "assignmentFrequency": "High",
+      "difficulty": "Medium",
+      "professorLeniency": "Lenient",
+      "finalExam": "Exam-based",
+      "researchOriented": "No",
+      "courseName": "Taxation"
+    }
+  ],
+  "BNAN 276": [
+    {
+      "professor": "Brent Marinan",
+      "section": "001",
+      "timing": "Morning",
+      "format": "In-person",
+      "length": "90 min",
+      "days": ["Thursday"],
+      "assignmentFrequency": "High",
+      "difficulty": "High",
+      "professorLeniency": "Strict",
+      "finalExam": "Exam-based",
+      "researchOriented": "Yes",
+      "courseName": "Business Statistics"
+    }
+  ],
+  "BNAN 277": [
+    {
+      "professor": "Adam Molnar",
+      "section": "002",
+      "timing": "Afternoon",
+      "format": "Online",
+      "length": "45 min",
+      "days": ["Monday", "Wednesday"],
+      "assignmentFrequency": "High",
+      "difficulty": "High",
+      "professorLeniency": "Balanced",
+      "finalExam": "Project-based",
+      "researchOriented": "Yes",
+      "courseName": "Advanced Business Statistics"
+    }
+  ],
+  "FIN 360": [
+    {
+      "professor": "Scott Cederburg",
+      "section": "001",
+      "timing": "Morning",
+      "format": "In-person",
+      "length": "90 min",
+      "days": ["Friday"],
+      "assignmentFrequency": "High",
+      "difficulty": "High",
+      "professorLeniency": "Strict",
+      "finalExam": "Exam-based",
+      "researchOriented": "Yes",
+      "courseName": "Quantitative Financial Management"
+    }
+  ],
+  "MIS 111": [
+    {
+      "professor": "Mark Patton",
+      "section": "001",
+      "timing": "Afternoon",
+      "format": "Hybrid",
+      "length": "45 min",
+      "days": ["Tuesday", "Thursday"],
+      "assignmentFrequency": "Medium",
+      "difficulty": "Low",
+      "professorLeniency": "Lenient",
+      "finalExam": "Project-based",
+      "researchOriented": "No",
+      "courseName": "Introduction to MIS"
+    }
+  ],
+  "MKTG 355": [
+    {
+      "professor": "Christopher Moran",
+      "section": "001",
+      "timing": "Morning",
+      "format": "Online",
+      "length": "45 min",
+      "days": ["Monday", "Wednesday"],
+      "assignmentFrequency": "Medium",
+      "difficulty": "Medium",
+      "professorLeniency": "Balanced",
+      "finalExam": "Project-based",
+      "researchOriented": "No",
+      "courseName": "Digital Marketing"
+    }
+  ],
+  "MKTG 361": [
+    {
+      "professor": "Victor Piscitello",
+      "section": "001",
+      "timing": "Afternoon",
+      "format": "In-person",
+      "length": "90 min",
+      "days": ["Monday"],
+      "assignmentFrequency": "Medium",
+      "difficulty": "Medium",
+      "professorLeniency": "Balanced",
+      "finalExam": "Exam-based",
+      "researchOriented": "No",
+      "courseName": "Marketing Fundamentals"
+    }
+  ],
+  "MKTG 376": [
+    {
+      "professor": "Xinying Hao",
+      "section": "001",
+      "timing": "Morning",
+      "format": "In-person",
+      "length": "90 min",
+      "days": ["Tuesday"],
+      "assignmentFrequency": "High",
+      "difficulty": "High",
+      "professorLeniency": "Strict",
+      "finalExam": "Project-based",
+      "researchOriented": "Yes",
+      "courseName": "Marketing Analytics"
+    }
+  ],
+  "OSCM 471": [
+    {
+      "professor": "Paul Kealey",
+      "section": "001",
+      "timing": "Afternoon",
+      "format": "Online",
+      "length": "45 min",
+      "days": ["Tuesday", "Thursday"],
+      "assignmentFrequency": "Medium",
+      "difficulty": "Medium",
+      "professorLeniency": "Balanced",
+      "finalExam": "Project-based",
+      "researchOriented": "No",
+      "courseName": "Supply Chain Management"
+    }
+  ],
+  "BCOM 212": [
+    {
+      "professor": "Kevin Cassell",
+      "section": "001",
+      "timing": "Morning",
+      "format": "In-person",
+      "length": "90 min",
+      "days": ["Wednesday"],
+      "assignmentFrequency": "Low",
+      "difficulty": "Low",
+      "professorLeniency": "Lenient",
+      "finalExam": "Project-based",
+      "researchOriented": "No",
+      "courseName": "Business Communication"
+    }
+  ],
+  "BNAD 301": [
+    {
+      "professor": "Mark Stegeman",
+      "section": "001",
+      "timing": "Afternoon",
+      "format": "Online",
+      "length": "45 min",
+      "days": ["Monday", "Wednesday"],
+      "assignmentFrequency": "Medium",
+      "difficulty": "Low",
+      "professorLeniency": "Balanced",
+      "finalExam": "Project-based",
+      "researchOriented": "No",
+      "courseName": "Business Ethics"
+    }
+  ],
+  "BNAD 302": [
+    {
+      "professor": "Paul Melendez",
+      "section": "001",
+      "timing": "Morning",
+      "format": "In-person",
+      "length": "90 min",
+      "days": ["Thursday"],
+      "assignmentFrequency": "Medium",
+      "difficulty": "Medium",
+      "professorLeniency": "Balanced",
+      "finalExam": "Project-based",
+      "researchOriented": "Yes",
+      "courseName": "Organizational Leadership"
+    }
+  ],
+  "MGMT 410": [
+    {
+      "professor": "Yong Ge",
+      "section": "001",
+      "timing": "Afternoon",
+      "format": "Hybrid",
+      "length": "90 min",
+      "days": ["Friday"],
+      "assignmentFrequency": "High",
+      "difficulty": "Medium",
+      "professorLeniency": "Balanced",
+      "finalExam": "Project-based",
+      "researchOriented": "Yes",
+      "courseName": "AI in Business Decision Making"
+    }
+  ],
+  "MGMT 420": [
+    {
+      "professor": "Laura Brandimarte",
+      "section": "001",
+      "timing": "Morning",
+      "format": "In-person",
+      "length": "90 min",
+      "days": ["Tuesday"],
+      "assignmentFrequency": "Medium",
+      "difficulty": "Medium",
+      "professorLeniency": "Lenient",
+      "finalExam": "Project-based",
+      "researchOriented": "No",
+      "courseName": "Product Management & Innovation"
+    }
+  ]
+}

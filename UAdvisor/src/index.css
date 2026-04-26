@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Source+Serif+4:wght@600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* UAdvisor Design System — University of Arizona */
+
+@layer base {
+  :root {
+    /* Surfaces */
+    --background: 0 0% 100%;
+    --foreground: 220 50% 14%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 220 50% 14%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 220 50% 14%;
+
+    /* UA Navy (primary) — UAccess banner */
+    --primary: 218 65% 22%;
+    --primary-foreground: 0 0% 100%;
+    --primary-glow: 218 60% 30%;
+
+    /* UA Red (brand) — UAccess top bar */
+    --brand-red: 350 78% 32%;
+    --brand-red-foreground: 0 0% 100%;
+    --brand-red-soft: 350 75% 96%;
+
+    /* Secondary / surfaces */
+    --secondary: 210 25% 96%;
+    --secondary-foreground: 218 50% 20%;
+
+    --muted: 210 20% 96%;
+    --muted-foreground: 220 12% 42%;
+
+    --accent: 210 25% 96%;
+    --accent-foreground: 218 50% 20%;
+
+    --destructive: 350 78% 32%;
+    --destructive-foreground: 0 0% 100%;
+
+    --score-high: 142 55% 32%;
+    --score-mid: 38 92% 45%;
+    --score-low: 0 70% 45%;
+
+    /* UAccess green alert */
+    --alert-success-bg: 95 45% 92%;
+    --alert-success-fg: 130 45% 25%;
+    --alert-success-border: 95 35% 75%;
+
+    --border: 220 14% 88%;
+    --input: 220 14% 85%;
+    --ring: 218 65% 22%;
+
+    --radius: 0.25rem;
+
+    --gradient-brand: linear-gradient(135deg, hsl(var(--primary)) 0%, hsl(218 65% 28%) 100%);
+    --gradient-header: linear-gradient(90deg, hsl(var(--primary)) 0%, hsl(218 65% 26%) 100%);
+    --shadow-card: 0 1px 2px 0 hsl(220 45% 12% / 0.05), 0 1px 3px 0 hsl(220 45% 12% / 0.06);
+    --shadow-elevated: 0 6px 20px -8px hsl(220 45% 12% / 0.18);
+    --shadow-brand: 0 6px 18px -8px hsl(var(--primary) / 0.35);
+
+    --transition-base: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+
+    --sidebar-background: 0 0% 98%;
+    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-primary: 240 5.9% 10%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 240 4.8% 95.9%;
+    --sidebar-accent-foreground: 240 5.9% 10%;
+    --sidebar-border: 220 13% 91%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+
+  .dark {
+    --background: 220 45% 8%;
+    --foreground: 210 20% 96%;
+    --card: 220 40% 11%;
+    --card-foreground: 210 20% 96%;
+    --popover: 220 40% 11%;
+    --popover-foreground: 210 20% 96%;
+    --primary: 210 20% 96%;
+    --primary-foreground: 220 71% 17%;
+    --secondary: 220 30% 16%;
+    --secondary-foreground: 210 20% 96%;
+    --muted: 220 30% 16%;
+    --muted-foreground: 220 10% 65%;
+    --accent: 220 30% 16%;
+    --accent-foreground: 210 20% 96%;
+    --destructive: 350 80% 50%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 220 30% 18%;
+    --input: 220 30% 18%;
+    --ring: 210 20% 96%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-family: 'Inter', system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  h1, h2, h3, h4 {
+    font-family: 'Source Serif 4', 'Inter', serif;
+    letter-spacing: -0.01em;
+  }
+}
+
+@layer components {
+  .ua-top-bar {
+    background: hsl(var(--brand-red));
+  }
+  .ua-hero-banner {
+    background: hsl(var(--primary));
+    position: relative;
+    overflow: hidden;
+  }
+  .ua-hero-banner::after {
+    content: '';
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 280px;
+    background-image:
+      linear-gradient(60deg, transparent 49.5%, hsl(210 100% 70% / 0.18) 49.5%, hsl(210 100% 70% / 0.18) 50.5%, transparent 50.5%),
+      linear-gradient(120deg, transparent 49.5%, hsl(210 100% 70% / 0.18) 49.5%, hsl(210 100% 70% / 0.18) 50.5%, transparent 50.5%);
+    background-size: 22px 22px;
+    pointer-events: none;
+    mask-image: linear-gradient(to left, black 30%, transparent 100%);
+  }
+  .required-asterisk::after {
+    content: ' *';
+    color: hsl(var(--brand-red));
+    font-weight: 700;
+  }
+  .ua-nav-link {
+    @apply uppercase tracking-wide font-bold text-sm text-primary hover:text-brand-red transition-colors flex items-center gap-1;
+    letter-spacing: 0.04em;
+  }
+}
