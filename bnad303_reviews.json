@@ -1,0 +1,402 @@
+{
+  "meta": {
+    "school": "arizona",
+    "course_code": "BNAD 303",
+    "course_url": "https://www.coursicle.com/arizona/courses/BNAD/303/",
+    "scraped_at": "2026-04-25T18:17:38",
+    "professors_found": [
+      "Richard Strickler",
+      "Jonathan Gilbert",
+      "Gerald Kollross",
+      "Mrinal Ghosh",
+      "Jo-Jan Hardesty"
+    ],
+    "review_count": 12
+  },
+  "by_professor": {
+    "Richard Strickler": [
+      {
+        "id": "12166214",
+        "professor": "Richard Strickler",
+        "course": "BNAD 303",
+        "submitted_at": "2025-05-01T20:18:14",
+        "submitted_year": 2025,
+        "review_age": "11mo",
+        "student_year": "Junior",
+        "student_major": "PSY",
+        "review_text": "Boring lectures that don't teach you much. The professor is really kind though and ultimately wants you to succeed. Extra credit paper worth 50 pts is worth it. Takes awhile to grade. Exams are open note but DIFFICULT. Attendance is mandatory bc when it gets too low he does pop quizzes worth extra pts.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "12166219",
+        "professor": "Richard Strickler",
+        "course": "BNAD 303",
+        "submitted_at": "2024-10-14T22:46:28",
+        "submitted_year": 2024,
+        "review_age": "1y",
+        "student_year": "Junior",
+        "student_major": "ANTH",
+        "review_text": "Boring, confusing lectures. Goes on tangents a lot that doesn't have anything to do with the material. Not an engaging lecturer at all and low key kind of passive aggressive at times. attendance is mandatory so you can't even skip and just teach yourself later. Homework is super simple and the answers are practically given to you.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "12166230",
+        "professor": "Richard Strickler",
+        "course": "BNAD 303",
+        "submitted_at": "2023-12-15T15:41:33",
+        "submitted_year": 2023,
+        "review_age": "2y",
+        "student_year": "Junior",
+        "student_major": "AME",
+        "review_text": "His lectures start on task at the beginning of the year but become random and off topic mostly. The homework spoon feeds the answer to you which is nice. Mid semester he changed the final exam format into something much easier, however the grading criteria was very ambiguous.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "5594845",
+        "professor": "Richard Strickler",
+        "course": "BNAD 303",
+        "submitted_at": "2023-05-11T23:08:11",
+        "submitted_year": 2023,
+        "review_age": "2y",
+        "student_year": "First-year",
+        "student_major": "FSHD",
+        "review_text": "lectures did not help understand the class, felt like he was ranting/storytelling more than actually teaching the material.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "5594848",
+        "professor": "Richard Strickler",
+        "course": "BNAD 303",
+        "submitted_at": "2023-04-26T01:17:15",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Junior",
+        "student_major": "AME",
+        "review_text": "Incredibly mid prof. Seems like a nice guy, homework is chill and nothing out of the ordinary. Only thing is that he was super ambiguous about grading, particularly regarding our participation grade which made up 10% of the final grade.",
+        "votes": 0,
+        "replying_to_id": null
+      }
+    ],
+    "Jonathan Gilbert": [],
+    "Gerald Kollross": [
+      {
+        "id": "5594752",
+        "professor": "Gerald Kollross",
+        "course": "BNAD 303",
+        "submitted_at": "2023-04-26T01:17:27",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "First-year",
+        "student_major": "FSHD",
+        "review_text": "Kollross is a coll guy. 4/5 tests (400 pts.), research participation (15 pts) and 16 in-class assignments (160 pts, drops 0). Tests can be challenging but, overall, easy. I got an average of 96% on all four. If you put in the work early in the semester, you can be done with class 3 weeks before end of semester.",
+        "votes": 1,
+        "replying_to_id": null
+      },
+      {
+        "id": "5594734",
+        "professor": "Gerald Kollross",
+        "course": "BNAD 303",
+        "submitted_at": "2023-04-26T01:17:27",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Junior",
+        "student_major": "AME",
+        "review_text": "Honestly an easier class than I thought it'd be. You'll have a difficult time with the research participation and homework assignments if you don't go to lectures, but the exams itself are fairly easy. As long as you keep up with assignments you can easily pass.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "5594736",
+        "professor": "Gerald Kollross",
+        "course": "BNAD 303",
+        "submitted_at": "2023-04-26T01:17:27",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "First-year",
+        "student_major": "AME",
+        "review_text": "I think the content is boring but the prof does try to make it interesting and conversational. Class is not mandatory there are assignments that he goes over in class that are hard to interpret if you don't attend. Easy if you do. I asked before enrolling if attendance was mandatory b/c I work and he said no but I found that to be misleading.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "5594740",
+        "professor": "Gerald Kollross",
+        "course": "BNAD 303",
+        "submitted_at": "2023-04-26T01:17:27",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "First-year",
+        "student_major": "AME",
+        "review_text": "Professor Kollross is one of the best professors I have had during college. His class is straightforward and he makes sure you are on track. Exams and in class assignments are easy! Kollross is also extremely knowledgeable and makes students eager to learn",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "5594744",
+        "professor": "Gerald Kollross",
+        "course": "BNAD 303",
+        "submitted_at": "2023-04-26T01:17:27",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "First-year",
+        "student_major": "AME",
+        "review_text": "Thanks to COVID I only had the option to take this course online (I really wanted to take in-person). However, I still found this class to be really fun thanks to Jerry. The textbook can be boring but his online lectures and notes helped a lot. He also kept consistent communication with our class and provided fast feedback! Great instructor",
+        "votes": 0,
+        "replying_to_id": null
+      }
+    ],
+    "Mrinal Ghosh": [
+      {
+        "id": "5594836",
+        "professor": "Mrinal Ghosh",
+        "course": "BNAD 303",
+        "submitted_at": "2023-04-26T01:17:32",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "First-year",
+        "student_major": "AME",
+        "review_text": "Great professor. He requires participation in the lectures in order for students to best understand and memorize course material through the examples that emerged from the discussion ! He randomly calls names during lectures to see if you are in class or not. So don't skip class.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "5594841",
+        "professor": "Mrinal Ghosh",
+        "course": "BNAD 303",
+        "submitted_at": "2023-04-26T01:17:32",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "First-year",
+        "student_major": "AME",
+        "review_text": "Not a difficult class. Took weeks to grade exams. Gradebook updated at the end of semester. Cancelled class via email the morning of 2x. Didnt order text on time w bookstore thus no text until 3rd wk of classes. Ignored multiple direct emails. Take this class online! Dont waste your time w this guy. Hes either disorganized or too busy to care.",
+        "votes": 0,
+        "replying_to_id": null
+      }
+    ],
+    "Jo-Jan Hardesty": []
+  },
+  "categorized": {
+    "by_submitted_year": {
+      "2025": [
+        "12166214"
+      ],
+      "2024": [
+        "12166219"
+      ],
+      "2023": [
+        "12166230",
+        "5594845",
+        "5594848",
+        "5594752",
+        "5594734",
+        "5594736",
+        "5594740",
+        "5594744",
+        "5594836",
+        "5594841"
+      ]
+    },
+    "by_student_year": {
+      "Junior": [
+        "12166214",
+        "12166219",
+        "12166230",
+        "5594848",
+        "5594734"
+      ],
+      "First-year": [
+        "5594845",
+        "5594752",
+        "5594736",
+        "5594740",
+        "5594744",
+        "5594836",
+        "5594841"
+      ]
+    },
+    "by_major": {
+      "PSY": [
+        "12166214"
+      ],
+      "ANTH": [
+        "12166219"
+      ],
+      "AME": [
+        "12166230",
+        "5594848",
+        "5594734",
+        "5594736",
+        "5594740",
+        "5594744",
+        "5594836",
+        "5594841"
+      ],
+      "FSHD": [
+        "5594845",
+        "5594752"
+      ]
+    }
+  },
+  "all_reviews": [
+    {
+      "id": "12166214",
+      "professor": "Richard Strickler",
+      "course": "BNAD 303",
+      "submitted_at": "2025-05-01T20:18:14",
+      "submitted_year": 2025,
+      "review_age": "11mo",
+      "student_year": "Junior",
+      "student_major": "PSY",
+      "review_text": "Boring lectures that don't teach you much. The professor is really kind though and ultimately wants you to succeed. Extra credit paper worth 50 pts is worth it. Takes awhile to grade. Exams are open note but DIFFICULT. Attendance is mandatory bc when it gets too low he does pop quizzes worth extra pts.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "12166219",
+      "professor": "Richard Strickler",
+      "course": "BNAD 303",
+      "submitted_at": "2024-10-14T22:46:28",
+      "submitted_year": 2024,
+      "review_age": "1y",
+      "student_year": "Junior",
+      "student_major": "ANTH",
+      "review_text": "Boring, confusing lectures. Goes on tangents a lot that doesn't have anything to do with the material. Not an engaging lecturer at all and low key kind of passive aggressive at times. attendance is mandatory so you can't even skip and just teach yourself later. Homework is super simple and the answers are practically given to you.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "12166230",
+      "professor": "Richard Strickler",
+      "course": "BNAD 303",
+      "submitted_at": "2023-12-15T15:41:33",
+      "submitted_year": 2023,
+      "review_age": "2y",
+      "student_year": "Junior",
+      "student_major": "AME",
+      "review_text": "His lectures start on task at the beginning of the year but become random and off topic mostly. The homework spoon feeds the answer to you which is nice. Mid semester he changed the final exam format into something much easier, however the grading criteria was very ambiguous.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5594845",
+      "professor": "Richard Strickler",
+      "course": "BNAD 303",
+      "submitted_at": "2023-05-11T23:08:11",
+      "submitted_year": 2023,
+      "review_age": "2y",
+      "student_year": "First-year",
+      "student_major": "FSHD",
+      "review_text": "lectures did not help understand the class, felt like he was ranting/storytelling more than actually teaching the material.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5594848",
+      "professor": "Richard Strickler",
+      "course": "BNAD 303",
+      "submitted_at": "2023-04-26T01:17:15",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Junior",
+      "student_major": "AME",
+      "review_text": "Incredibly mid prof. Seems like a nice guy, homework is chill and nothing out of the ordinary. Only thing is that he was super ambiguous about grading, particularly regarding our participation grade which made up 10% of the final grade.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5594752",
+      "professor": "Gerald Kollross",
+      "course": "BNAD 303",
+      "submitted_at": "2023-04-26T01:17:27",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "First-year",
+      "student_major": "FSHD",
+      "review_text": "Kollross is a coll guy. 4/5 tests (400 pts.), research participation (15 pts) and 16 in-class assignments (160 pts, drops 0). Tests can be challenging but, overall, easy. I got an average of 96% on all four. If you put in the work early in the semester, you can be done with class 3 weeks before end of semester.",
+      "votes": 1,
+      "replying_to_id": null
+    },
+    {
+      "id": "5594734",
+      "professor": "Gerald Kollross",
+      "course": "BNAD 303",
+      "submitted_at": "2023-04-26T01:17:27",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Junior",
+      "student_major": "AME",
+      "review_text": "Honestly an easier class than I thought it'd be. You'll have a difficult time with the research participation and homework assignments if you don't go to lectures, but the exams itself are fairly easy. As long as you keep up with assignments you can easily pass.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5594736",
+      "professor": "Gerald Kollross",
+      "course": "BNAD 303",
+      "submitted_at": "2023-04-26T01:17:27",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "First-year",
+      "student_major": "AME",
+      "review_text": "I think the content is boring but the prof does try to make it interesting and conversational. Class is not mandatory there are assignments that he goes over in class that are hard to interpret if you don't attend. Easy if you do. I asked before enrolling if attendance was mandatory b/c I work and he said no but I found that to be misleading.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5594740",
+      "professor": "Gerald Kollross",
+      "course": "BNAD 303",
+      "submitted_at": "2023-04-26T01:17:27",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "First-year",
+      "student_major": "AME",
+      "review_text": "Professor Kollross is one of the best professors I have had during college. His class is straightforward and he makes sure you are on track. Exams and in class assignments are easy! Kollross is also extremely knowledgeable and makes students eager to learn",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5594744",
+      "professor": "Gerald Kollross",
+      "course": "BNAD 303",
+      "submitted_at": "2023-04-26T01:17:27",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "First-year",
+      "student_major": "AME",
+      "review_text": "Thanks to COVID I only had the option to take this course online (I really wanted to take in-person). However, I still found this class to be really fun thanks to Jerry. The textbook can be boring but his online lectures and notes helped a lot. He also kept consistent communication with our class and provided fast feedback! Great instructor",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5594836",
+      "professor": "Mrinal Ghosh",
+      "course": "BNAD 303",
+      "submitted_at": "2023-04-26T01:17:32",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "First-year",
+      "student_major": "AME",
+      "review_text": "Great professor. He requires participation in the lectures in order for students to best understand and memorize course material through the examples that emerged from the discussion ! He randomly calls names during lectures to see if you are in class or not. So don't skip class.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5594841",
+      "professor": "Mrinal Ghosh",
+      "course": "BNAD 303",
+      "submitted_at": "2023-04-26T01:17:32",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "First-year",
+      "student_major": "AME",
+      "review_text": "Not a difficult class. Took weeks to grade exams. Gradebook updated at the end of semester. Cancelled class via email the morning of 2x. Didnt order text on time w bookstore thus no text until 3rd wk of classes. Ignored multiple direct emails. Take this class online! Dont waste your time w this guy. Hes either disorganized or too busy to care.",
+      "votes": 0,
+      "replying_to_id": null
+    }
+  ]
+}

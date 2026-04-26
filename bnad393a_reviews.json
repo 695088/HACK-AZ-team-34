@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "school": "arizona",
+    "course_code": "BNAD 393A",
+    "course_url": "https://www.coursicle.com/arizona/courses/BNAD/393A/",
+    "scraped_at": "2026-04-25T18:22:52",
+    "professors_found": [
+      "Sarah Diaz",
+      "Tatum Rochin",
+      "Javier Smith",
+      "Katelyn Rose",
+      "Lauren Findlow",
+      "Pablo Smith",
+      "Elena Ioli"
+    ],
+    "review_count": 0
+  },
+  "by_professor": {
+    "Sarah Diaz": [],
+    "Tatum Rochin": [],
+    "Javier Smith": [],
+    "Katelyn Rose": [],
+    "Lauren Findlow": [],
+    "Pablo Smith": [],
+    "Elena Ioli": []
+  },
+  "categorized": {
+    "by_submitted_year": {},
+    "by_student_year": {},
+    "by_major": {}
+  },
+  "all_reviews": []
+}

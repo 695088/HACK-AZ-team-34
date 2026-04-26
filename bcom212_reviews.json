@@ -1,0 +1,196 @@
+{
+  "meta": {
+    "school": "arizona",
+    "course_code": "BCOM 212",
+    "course_url": "https://www.coursicle.com/arizona/courses/BCOM/212/",
+    "scraped_at": "2026-04-25T16:34:10",
+    "professors_found": [
+      "Kevin Cassell",
+      "Erin Paradis",
+      "Cherilyn Boyer"
+    ],
+    "review_count": 5
+  },
+  "by_professor": {
+    "Kevin Cassell": [
+      {
+        "id": "12168794",
+        "professor": "Kevin Cassell",
+        "course": "BCOM 212",
+        "submitted_at": "2025-02-06T19:41:15",
+        "submitted_year": 2025,
+        "review_age": "1y",
+        "student_year": "Senior",
+        "student_major": "BSM",
+        "review_text": "Professor Cassell is extremely knowledgeable and charismatic. The worst part about the class is that the majority of your grade comes from group projects. He does his best to try to address any problems, but the fact remains that your grade is dependent on 4-5 other people's effort. The class is pretty educational and interesting otherwise.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "12168795",
+        "professor": "Kevin Cassell",
+        "course": "BCOM 212",
+        "submitted_at": "2024-12-20T20:04:27",
+        "submitted_year": 2024,
+        "review_age": "1y",
+        "student_year": "Sophomore",
+        "student_major": "DATA",
+        "review_text": "TOOK BCOM 314, Kevin is one of the better BCOM professors. He's definitely a character but you'll like him. BCOM is just a tougher graded class in general bc you have to Exceed Expectations to get an A, doing what you usually think is enough will only reach a C but gives clear instructions on how to do that. Very helpful, entertaining, nice.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "12168796",
+        "professor": "Kevin Cassell",
+        "course": "BCOM 212",
+        "submitted_at": "2024-12-15T20:29:59",
+        "submitted_year": 2024,
+        "review_age": "1y",
+        "student_year": "Senior",
+        "student_major": "ECON",
+        "review_text": "Cassell really cares about his students and wants them to succeed in BCOM. He's really knowledgeable about the subject and makes sure everything is prepared for his students. He is very particular in grading, so make sure you meet his expectations, and you'll do fine.",
+        "votes": 0,
+        "replying_to_id": null
+      }
+    ],
+    "Erin Paradis": [
+      {
+        "id": "5610101",
+        "professor": "Erin Paradis",
+        "course": "BCOM 212",
+        "submitted_at": "2023-04-25T23:34:10",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Junior",
+        "student_major": "BCOM",
+        "review_text": "Dr. Paradis was motivational and cared for her student's success throughout the entire semester. I highly recommend her, as she is always prepared and willing to take feedback from her students and incorporate it into the class structure. Her grading is prompt and with tons of valuable feedback. You have to earn your A but it's worth it.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "5610111",
+        "professor": "Erin Paradis",
+        "course": "BCOM 212",
+        "submitted_at": "2023-04-25T23:34:10",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Sophomore",
+        "student_major": "BCOM",
+        "review_text": "Very cool professor and knows her stuff. Is charismatic and helps you learn a lot about the subject. Note though that the class is very team-based, so make sure to communicate with your team members and try hard on assignments because the grading is tough.",
+        "votes": 0,
+        "replying_to_id": null
+      }
+    ],
+    "Cherilyn Boyer": []
+  },
+  "categorized": {
+    "by_submitted_year": {
+      "2025": [
+        "12168794"
+      ],
+      "2024": [
+        "12168795",
+        "12168796"
+      ],
+      "2023": [
+        "5610101",
+        "5610111"
+      ]
+    },
+    "by_student_year": {
+      "Senior": [
+        "12168794",
+        "12168796"
+      ],
+      "Sophomore": [
+        "12168795",
+        "5610111"
+      ],
+      "Junior": [
+        "5610101"
+      ]
+    },
+    "by_major": {
+      "BSM": [
+        "12168794"
+      ],
+      "DATA": [
+        "12168795"
+      ],
+      "ECON": [
+        "12168796"
+      ],
+      "BCOM": [
+        "5610101",
+        "5610111"
+      ]
+    }
+  },
+  "all_reviews": [
+    {
+      "id": "12168794",
+      "professor": "Kevin Cassell",
+      "course": "BCOM 212",
+      "submitted_at": "2025-02-06T19:41:15",
+      "submitted_year": 2025,
+      "review_age": "1y",
+      "student_year": "Senior",
+      "student_major": "BSM",
+      "review_text": "Professor Cassell is extremely knowledgeable and charismatic. The worst part about the class is that the majority of your grade comes from group projects. He does his best to try to address any problems, but the fact remains that your grade is dependent on 4-5 other people's effort. The class is pretty educational and interesting otherwise.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "12168795",
+      "professor": "Kevin Cassell",
+      "course": "BCOM 212",
+      "submitted_at": "2024-12-20T20:04:27",
+      "submitted_year": 2024,
+      "review_age": "1y",
+      "student_year": "Sophomore",
+      "student_major": "DATA",
+      "review_text": "TOOK BCOM 314, Kevin is one of the better BCOM professors. He's definitely a character but you'll like him. BCOM is just a tougher graded class in general bc you have to Exceed Expectations to get an A, doing what you usually think is enough will only reach a C but gives clear instructions on how to do that. Very helpful, entertaining, nice.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "12168796",
+      "professor": "Kevin Cassell",
+      "course": "BCOM 212",
+      "submitted_at": "2024-12-15T20:29:59",
+      "submitted_year": 2024,
+      "review_age": "1y",
+      "student_year": "Senior",
+      "student_major": "ECON",
+      "review_text": "Cassell really cares about his students and wants them to succeed in BCOM. He's really knowledgeable about the subject and makes sure everything is prepared for his students. He is very particular in grading, so make sure you meet his expectations, and you'll do fine.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5610101",
+      "professor": "Erin Paradis",
+      "course": "BCOM 212",
+      "submitted_at": "2023-04-25T23:34:10",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Junior",
+      "student_major": "BCOM",
+      "review_text": "Dr. Paradis was motivational and cared for her student's success throughout the entire semester. I highly recommend her, as she is always prepared and willing to take feedback from her students and incorporate it into the class structure. Her grading is prompt and with tons of valuable feedback. You have to earn your A but it's worth it.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5610111",
+      "professor": "Erin Paradis",
+      "course": "BCOM 212",
+      "submitted_at": "2023-04-25T23:34:10",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Sophomore",
+      "student_major": "BCOM",
+      "review_text": "Very cool professor and knows her stuff. Is charismatic and helps you learn a lot about the subject. Note though that the class is very team-based, so make sure to communicate with your team members and try hard on assignments because the grading is tough.",
+      "votes": 0,
+      "replying_to_id": null
+    }
+  ]
+}

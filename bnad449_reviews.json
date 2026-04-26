@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "school": "arizona",
+    "course_code": "BNAD 449",
+    "course_url": "https://www.coursicle.com/arizona/courses/BNAD/449/",
+    "scraped_at": "2026-04-25T18:24:05",
+    "professors_found": [
+      "Vannessa Kramer",
+      "Robert Matteucci"
+    ],
+    "review_count": 0
+  },
+  "by_professor": {
+    "Vannessa Kramer": [],
+    "Robert Matteucci": []
+  },
+  "categorized": {
+    "by_submitted_year": {},
+    "by_student_year": {},
+    "by_major": {}
+  },
+  "all_reviews": []
+}

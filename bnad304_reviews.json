@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "school": "arizona",
+    "course_code": "BNAD 304",
+    "course_url": "https://www.coursicle.com/arizona/courses/BNAD/304/",
+    "scraped_at": "2026-04-25T18:20:02",
+    "professors_found": [
+      "Hilmi Songur"
+    ],
+    "review_count": 4
+  },
+  "by_professor": {
+    "Hilmi Songur": [
+      {
+        "id": "12163788",
+        "professor": "Hilmi Songur",
+        "course": "BNAD 304",
+        "submitted_at": "2024-05-31T00:37:12",
+        "submitted_year": 2024,
+        "review_age": "1y",
+        "student_year": "Sophomore",
+        "student_major": "ACCT",
+        "review_text": "Dr. Songur is an amazing professor who just wants all his students to do well. He makes his expectations known from the start",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "5586948",
+        "professor": "Hilmi Songur",
+        "course": "BNAD 304",
+        "submitted_at": "2023-05-08T16:02:43",
+        "submitted_year": 2023,
+        "review_age": "2y",
+        "student_year": "Junior",
+        "student_major": "BNAD",
+        "review_text": "Overall a great class. Take Dr. Songur for BNAD 304!",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "5587041",
+        "professor": "Hilmi Songur",
+        "course": "BNAD 304",
+        "submitted_at": "2023-04-26T01:20:03",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Junior",
+        "student_major": "MKTG",
+        "review_text": "Take this class!!! The professor is very clear on grading and offers so many extra credit opportunities to boost your grade. I was in the three week online course which consisted of a discussion post/reply each week, one quiz each week, an exam each week, and a class reflection at the end of the course. Overall, very fast pace but so worth it.",
+        "votes": 0,
+        "replying_to_id": null
+      },
+      {
+        "id": "5587051",
+        "professor": "Hilmi Songur",
+        "course": "BNAD 304",
+        "submitted_at": "2023-04-26T01:20:03",
+        "submitted_year": 2023,
+        "review_age": "3y",
+        "student_year": "Junior",
+        "student_major": "BNAD",
+        "review_text": "Best online class experience. The assignments are clear. You learn a lot of useful information.",
+        "votes": 0,
+        "replying_to_id": null
+      }
+    ]
+  },
+  "categorized": {
+    "by_submitted_year": {
+      "2024": [
+        "12163788"
+      ],
+      "2023": [
+        "5586948",
+        "5587041",
+        "5587051"
+      ]
+    },
+    "by_student_year": {
+      "Sophomore": [
+        "12163788"
+      ],
+      "Junior": [
+        "5586948",
+        "5587041",
+        "5587051"
+      ]
+    },
+    "by_major": {
+      "ACCT": [
+        "12163788"
+      ],
+      "BNAD": [
+        "5586948",
+        "5587051"
+      ],
+      "MKTG": [
+        "5587041"
+      ]
+    }
+  },
+  "all_reviews": [
+    {
+      "id": "12163788",
+      "professor": "Hilmi Songur",
+      "course": "BNAD 304",
+      "submitted_at": "2024-05-31T00:37:12",
+      "submitted_year": 2024,
+      "review_age": "1y",
+      "student_year": "Sophomore",
+      "student_major": "ACCT",
+      "review_text": "Dr. Songur is an amazing professor who just wants all his students to do well. He makes his expectations known from the start",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5586948",
+      "professor": "Hilmi Songur",
+      "course": "BNAD 304",
+      "submitted_at": "2023-05-08T16:02:43",
+      "submitted_year": 2023,
+      "review_age": "2y",
+      "student_year": "Junior",
+      "student_major": "BNAD",
+      "review_text": "Overall a great class. Take Dr. Songur for BNAD 304!",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5587041",
+      "professor": "Hilmi Songur",
+      "course": "BNAD 304",
+      "submitted_at": "2023-04-26T01:20:03",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Junior",
+      "student_major": "MKTG",
+      "review_text": "Take this class!!! The professor is very clear on grading and offers so many extra credit opportunities to boost your grade. I was in the three week online course which consisted of a discussion post/reply each week, one quiz each week, an exam each week, and a class reflection at the end of the course. Overall, very fast pace but so worth it.",
+      "votes": 0,
+      "replying_to_id": null
+    },
+    {
+      "id": "5587051",
+      "professor": "Hilmi Songur",
+      "course": "BNAD 304",
+      "submitted_at": "2023-04-26T01:20:03",
+      "submitted_year": 2023,
+      "review_age": "3y",
+      "student_year": "Junior",
+      "student_major": "BNAD",
+      "review_text": "Best online class experience. The assignments are clear. You learn a lot of useful information.",
+      "votes": 0,
+      "replying_to_id": null
+    }
+  ]
+}
